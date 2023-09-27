@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
-baseURL = "https://marginalia.github.io/"
+baseURL = "https://gentle-pastelito-7271fe.netlify.app/"
 # Title of your website (required).
 title = "My English Academy"
 # Your theme name
