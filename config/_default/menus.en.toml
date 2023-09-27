@@ -1,0 +1,64 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "About"
+url = "about/"
+weight = 2
+
+[[main]]
+name = "Blog"
+url = "blog/"
+weight = 3
+
+
+[[main]]
+weight = 4
+name = "Study"
+hasChildren = true
+
+  [[main]]
+  parent = "Study"
+  name = "Articles"
+  url = "articles/"
+  weight = 1
+
+  [[main]]
+  parent = "Study"
+  name = "Lyrics"
+  url = "lyrics/"
+  weight = 2
+
+  [[main]]
+  parent = "Study"
+  name = "Videos"
+  url = "videos/"
+  weight = 3
+
+  [[main]]
+  parent = "Study"
+  name = "STEM"
+  url = "tags/stem/"
+  weight = 4
+
+  [[main]]
+  parent = "Study"
+  name = "Grammar"
+  url = "grammar/"
+  weight = 5
+
+# footer menu
+[[footer]]
+name = "About"
+url = "about/"
+weight = 1
+
+[[footer]]
+name = "Privacy Policy"
+url = "privacy-policy/"
+weight = 2
