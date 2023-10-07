@@ -16,6 +16,7 @@ draft: false
 *You can read the original text [here](https://jamesclear.com/productivity-tip).*
 
 {{< reading >}}
+
 <h3>The Only Productivity Tip You’ll Ever Need</h3>
 <br>
 
@@ -70,15 +71,18 @@ and
 
 <br><br>
 
-<h4>
+<h5>
 {{< pops "Productivity," "<img src='images/spanish.jpg'><i>La productividad</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>indefinite pronouns (<i>someone</i>)<br>simple past (<i>said</i>)" >}}
 {{< pops "Simplified" "<img src='images/spanish.jpg'><i>simplificada</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>indefinite pronouns (<i>someone</i>)<br>simple past (<i>said</i>)" >}}
-</h4>
+</h5>
 
-
-{{< pops "No need to draw this out." "<img src='images/spanish.jpg'><i>No es necesario prolongar esto</i><br><br><i>No need = no hay necesidad<br>draw out = prolongar/elongar/estirar<br><br></i><b>Study:</b><br>Phrasal Verbs (<i>draw out</i>)<br>Demonstratives (<i>this</i>)" >}}
-{{< pops "This productivity tip is straightforward:" "<img src='images/spanish.jpg'><i>Este consejo de productividad es sencillo</i><br><br><i>Tip = Consejo<br>Straightforward = sencillo/directo al grano<br><br></i><b>Study:</b><br>Demonstratives (<i>This</i>)<br>Verb to be (<i>is</i>)" >}}
-{{< pops "Do the most important thing first" "<img src='images/spanish.jpg'><i>Haz lo más importante primero</i><br><br><i>thing = cosa<br>first = primero<br><br></i><b>Study:</b><br>Imperative mood (<i>Do</i>)<br>Superlatives (<i>the most important</i>)<br>Numeral (<i>first</i>)" >}}
+{{< pops "No need" "<img src='images/spanish.jpg'><i>No es necesario</i><br><br><i>No need = no hay necesidad<br>draw out = prolongar/elongar/estirar<br><br></i><b>Study:</b><br>Phrasal Verbs (<i>draw out</i>)<br>Demonstratives (<i>this</i>)" >}}
+{{< pops "to draw this out." "<img src='images/spanish.jpg'><i>prolongar esto</i><br><br><i>No need = no hay necesidad<br>draw out = prolongar/elongar/estirar<br><br></i><b>Study:</b><br>Phrasal Verbs (<i>draw out</i>)<br>Demonstratives (<i>this</i>)" >}}
+{{< pops "This productivity tip" "<img src='images/spanish.jpg'><i>Este consejo de productividad es sencillo</i><br><br><i>Tip = Consejo<br>Straightforward = sencillo/directo al grano<br><br></i><b>Study:</b><br>Demonstratives (<i>This</i>)<br>Verb to be (<i>is</i>)" >}}
+{{< pops "is straightforward:" "<img src='images/spanish.jpg'><i>Este consejo de productividad es sencillo</i><br><br><i>Tip = Consejo<br>Straightforward = sencillo/directo al grano<br><br></i><b>Study:</b><br>Demonstratives (<i>This</i>)<br>Verb to be (<i>is</i>)" >}}
+{{< pops "Do" "<img src='images/spanish.jpg'><i>Haz</i><br><br><b>Study:</b><br>Imperative mood" >}}
+{{< pops "the most important thing" "<img src='images/spanish.jpg'><i>Haz lo más importante primero</i><br><br><i>thing = cosa<br>first = primero<br><br></i><b>Study:</b><br>Imperative mood (<i>Do</i>)<br>Superlatives (<i>the most important</i>)<br>Numeral (<i>first</i>)" >}}
+{{< pops "first" "<img src='images/spanish.jpg'><i>primero</i><br><br><b>Study:</b><br>Numeral" >}}
 {{< pops "each day." "<img src='images/spanish.jpg'><i>cada día</i><br><br><b>Study:</b><br>Quantifiers (<i>each</i>)" >}}
 
 <br><br>
@@ -90,44 +94,65 @@ and
 
 {{< pops "Just like Hemingway" "<img src='images/spanish.jpg'><i>Tal como Hemingway</i><br><br><i>Just = Exactamente<br><br></i><b>Study:</b><br>Prepositions (<i>like</i>)<br>Poly words (<i>just, like</i>)" >}}
 {{< pops "who produced" "<img src='images/spanish.jpg'><i>quién produjo</i><br><br><b>Study:</b><br>Connectors (<i>quién</i>)<br>simple past (<i>produced</i>)" >}}
-{{< pops "a remarkable volume of high-caliber work" "<img src='images/spanish.jpg'><i>una cantidad considerable de trabajo de alto calibre</i><br><br><i>remarkable = notable/destacable/considerable<br>volume = volumen/cantidad<br><br></i><b>Study:</b><br>Articles (<i>a</i>)<br>Prepositions (<i>of</i>)<br>Compound words (<i>high-caliber</i>)" >}}
+{{< pops "a remarkable volume" "<img src='images/spanish.jpg'><i>una cantidad considerable</i><br><br><i>remarkable = notable/destacable/considerable<br>volume = volumen/cantidad<br><br></i><b>Study:</b><br>Articles (<i>a</i>)<br>Prepositions (<i>of</i>)<br>Compound words (<i>high-caliber</i>)" >}}
+{{< pops "of high-caliber work" "<img src='images/spanish.jpg'><i>de trabajo de alto calibre</i><br><br><i>remarkable = notable/destacable/considerable<br>volume = volumen/cantidad<br><br></i><b>Study:</b><br>Articles (<i>a</i>)<br>Prepositions (<i>of</i>)<br>Compound words (<i>high-caliber</i>)" >}}
 {{< pops "during his career," "<img src='images/spanish.jpg'><i>durante su carrera</i><br><br><b>Study:</b><br>Prepositions (<i>during</i>)<br>Possessive Adjectives (<i>his</i>)" >}}
-{{< pops "you can make surprising progress" "<img src='images/spanish.jpg'><i>puedes hacer un progreso sorprendente</i><br><br><i>make progress = progresar<br><br></i><b>Study:</b><br>Personal Pronouns (<i>you</i>)<br>Auxiliary verbs (<i>can</i>)<br>Adjectives (<i>surprising</i>)" >}}
-{{< pops "if you simply do the most important thing." "<img src='images/spanish.jpg'><i>Si simplemente haces lo más importante</i><br><br><i>Simply = Simplemente<br>Thing = Cosa<br><br></i><b>Study:</b><br>First Conditional (<i>If you do...</i>)<br>Adverbs (<i>simply</i>)<br>Superlatives (<i>the most important</i>)" >}}
+{{< pops "you can make" "<img src='images/spanish.jpg'><i>puedes hacer</i><br><br><i>make progress = progresar<br><br></i><b>Study:</b><br>Personal Pronouns (<i>you</i>)<br>Auxiliary verbs (<i>can</i>)<br>Adjectives (<i>surprising</i>)" >}}
+{{< pops "surprising progress" "<img src='images/spanish.jpg'><i>progreso sorprendente</i><br><br><i>make progress = progresar<br><br></i><b>Study:</b><br>Personal Pronouns (<i>you</i>)<br>Auxiliary verbs (<i>can</i>)<br>Adjectives (<i>surprising</i>)" >}}
+{{< pops "if you simply do" "<img src='images/spanish.jpg'><i>Si simplemente haces</i><br><br><i>Simply = Simplemente<br>Thing = Cosa<br><br></i><b>Study:</b><br>First Conditional (<i>If you do...</i>)<br>Adverbs (<i>simply</i>)<br>Superlatives (<i>the most important</i>)" >}}
+{{< pops "the most important thing." "<img src='images/spanish.jpg'><i>lo más importante</i><br><br><i>Simply = Simplemente<br>Thing = Cosa<br><br></i><b>Study:</b><br>First Conditional (<i>If you do...</i>)<br>Adverbs (<i>simply</i>)<br>Superlatives (<i>the most important</i>)" >}}
 
 <br><br>
 
-<h4>{{< pops "Why It Works" "<img src='images/spanish.jpg'><i>Porqué funciona</i><br><br><b>Study:</b><br>Wh Words (<i>why</i>)<br>simple present (<i>it works</i>)" >}}</h4>
+<h5>{{< pops "Why It Works" "<img src='images/spanish.jpg'><i>Porqué funciona</i><br><br><b>Study:</b><br>Wh Words (<i>why</i>)<br>simple present (<i>it works</i>)" >}}</h5>
 
 
 {{< pops "We often assume" "<img src='images/spanish.jpg'><i>Usualmente asumimos</i><br><br><b>Study:</b><br>Personal Pronouns (<i>we</i>)<br>Adverbs (<i>often</i>)" >}}
-{{< pops "productivity means getting more things done." "<img src='images/spanish.jpg'><i>productividad significa terminar las cosas</i><br><br><i>means = significa<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple present (<i>means</i>)<br>Comparisons (<i>more</i>)" >}} each day
+{{< pops "productivity means" "<img src='images/spanish.jpg'><i>productividad significa terminar las cosas</i><br><br><i>means = significa<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple present (<i>means</i>)<br>Comparisons (<i>more</i>)" >}}
+{{< pops "getting more things done." "<img src='images/spanish.jpg'><i>productividad significa terminar las cosas</i><br><br><i>means = significa<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple present (<i>means</i>)<br>Comparisons (<i>more</i>)" >}} each day
 {{< pops "Wrong." "<img src='images/spanish.jpg'><i>error</i><br>" >}}
-<br>
-{{< pops "Productivity is getting important things done" "<img src='images/spanish.jpg'><i>Productividad es lograr cosas importante</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "consistently." "<img src='images/spanish.jpg'><i>constantemente</i><br>" >}}
-{{< pops "And no matter what you are working on," "<img src='images/spanish.jpg'><i>Y sin importar en lo que estés trabajando</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "there are only a few things" "<img src='images/spanish.jpg'><i>hay solo un par de cosas</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "that are truly important." "<img src='images/spanish.jpg'><i>que son verdaderamente importantes</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
 
 <br><br>
 
-{{< pops "Being productive is about maintaining" "<img src='images/spanish.jpg'><i>Ser productivo significa mantener</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
+Productivity
+{{< pops "is getting important things done" "<img src='images/spanish.jpg'><i>es lograr cosas importante</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
+{{< pops "consistently." "<img src='images/spanish.jpg'><i>constantemente</i><br>" >}}
+{{< pops "And" "<img src='images/spanish.jpg'><i>Y</i><br><br><i>INGLES = ESPAÑOL<br></i><b>Study:</b><br>Verb to be (<i>is</i>)" >}}
+{{< pops "no matter" "<img src='images/spanish.jpg'><i>sin importar</i><br><br><i>INGLES = ESPAÑOL<br></i><b>Study:</b><br>Verb to be (<i>is</i>)" >}}
+{{< pops "what you are working on," "<img src='images/spanish.jpg'><i>en lo que estés trabajando</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
+{{< pops "there are" "<img src='images/spanish.jpg'><i>hay</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
+{{< pops "only a few things" "<img src='images/spanish.jpg'><i>solamente un par de cosas</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
+{{< pops "that are" "<img src='images/spanish.jpg'><i>que son</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
+{{< pops "truly important." "<img src='images/spanish.jpg'><i>verdaderamente importantes</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
+
+<br><br>
+
+{{< pops "Being productive" "<img src='images/spanish.jpg'><i>Ser productivo</i><br><br><i>INGLES = ESPAÑOL<br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
+{{< pops "is about maintaining" "<img src='images/spanish.jpg'><i>significa mantener</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
 {{< pops "a steady, average speed" "<img src='images/spanish.jpg'><i>una velocidad constante</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
 {{< pops "on a few things," "<img src='images/spanish.jpg'><i>en un par de cosas</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "not maximum speed on everything." "<img src='images/spanish.jpg'><i>no una máxima velocidad en todo</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
+{{< pops "not maximum speed" "<img src='images/spanish.jpg'><i>no una máxima velocidad</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
+{{< pops "on everything." "<img src='images/spanish.jpg'><i>en todo</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
 
 <br><br>
 
-{{< pops "That's why this strategy is effective." "<img src='images/spanish.jpg'><i>por eso esta estrategia es efectiva</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
+{{< pops "That's why" "<img src='images/spanish.jpg'><i>por eso</i><br><br><i>INGLES = ESPAÑOL<br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
+{{< pops "this strategy" "<img src='images/spanish.jpg'><i>esta estrategia</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
+{{< pops "is effective." "<img src='images/spanish.jpg'><i>es efectiva</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
 {{< pops "If you do" "<img src='images/spanish.jpg'><i>si es que haces</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
 the most important thing first each day,
 {{< pops "then" "<img src='images/spanish.jpg'><i>entonces</i><br>" >}}
 {{< pops "you'll always get something important done." "<img src='images/spanish.jpg'><i>siempre cumplirás algo importante</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
 {{< pops "I don't know about you," "<img src='images/spanish.jpg'><i>no sé tú</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "but this is a big deal for me." "<img src='images/spanish.jpg'><i>pero esto es algo importante para mi</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "There are many days" "<img src='images/spanish.jpg'><i>hay muchos días</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "when I waste hours crossing off" "<img src='images/spanish.jpg'><i>cuando desperdicio horas descartando</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
+{{< pops "but" "<img src='images/spanish.jpg'><i>pero</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
+{{< pops "this is" "<img src='images/spanish.jpg'><i>esto es</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
+{{< pops "a big deal" "<img src='images/spanish.jpg'><i>algo importante</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
+{{< pops "for me." "<img src='images/spanish.jpg'><i>para mi</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
+{{< pops "There are" "<img src='images/spanish.jpg'><i>hay</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
+{{< pops "many days" "<img src='images/spanish.jpg'><i>muchos días</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
+{{< pops "when" "<img src='images/spanish.jpg'><i>cuando</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
+{{< pops "I waste hours" "<img src='images/spanish.jpg'><i>desperdicio horas</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
+{{< pops "crossing off" "<img src='images/spanish.jpg'><i>descartando</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
 {{< pops "the 4th, 5th, or 6th most important tasks" "<img src='images/spanish.jpg'><i>la cuarta, quinta, o sexta tarea más importante</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
 {{< pops "on my to-do list" "<img src='images/spanish.jpg'><i>en mi lista de tareas</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
 {{< pops "never get around to doing" "<img src='images/spanish.jpg'><i>nunca terminar de hacer</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
@@ -140,8 +165,10 @@ the most important thing first each day,
 {{< pops "there is no reason you have to apply" "<img src='images/spanish.jpg'><i>no hay razón para tener que aplicar</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
 {{< pops "this strategy" "<img src='images/spanish.jpg'><i>esta estrategia</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
 {{< pops "in the morning," "<img src='images/spanish.jpg'><i>en la mañana</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}but
-{{< pops "I think starting your day" "<img src='images/spanish.jpg'><i>pienso que comenzar tu día</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "with the most important task" "<img src='images/spanish.jpg'><i>con la tarea más importante</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
+{{< pops "I think" "<img src='images/spanish.jpg'><i>pienso que comenzar tu día</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
+{{< pops "starting your day" "<img src='images/spanish.jpg'><i>pienso que comenzar tu día</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
+{{< pops "with" "<img src='images/spanish.jpg'><i>con la tarea más importante</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
+{{< pops "the most important task" "<img src='images/spanish.jpg'><i>con la tarea más importante</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
 {{< pops "does offer" "<img src='images/spanish.jpg'><i>sí ofrece</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
 {{< pops "some additional benefits" "<img src='images/spanish.jpg'><i>algunos beneficios adicionales</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
 {{< pops "over other times." "<img src='images/spanish.jpg'><i>por sobre otras horas del día</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
@@ -166,8 +193,10 @@ the most important thing first each day,
 {{< pops "in my experience," "<img src='images/spanish.jpg'><i>en mi experiencia</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
 {{< pops "the deeper I get into the day," "<img src='images/spanish.jpg'><i>mientras más profundo entro al día</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
 {{< pops "the more likely it is that unexpected tasks" "<img src='images/spanish.jpg'><i>crece la probabilidad de que tareas inesperadas</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "will creep into my schedule" "<img src='images/spanish.jpg'><i>se metan en mi agenda</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}and
-{{< pops "the less likely it is that I'll spend my time" "<img src='images/spanish.jpg'><i>hay menos posibilidades de que pasaré mi tiempo</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
+{{< pops "will creep" "<img src='images/spanish.jpg'><i>se metan en mi agenda</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}}
+{{< pops "into my schedule" "<img src='images/spanish.jpg'><i>se metan en mi agenda</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}and
+{{< pops "the less likely it is" "<img src='images/spanish.jpg'><i>hay menos posibilidades de que pasaré mi tiempo</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
+{{< pops "that I'll spend my time" "<img src='images/spanish.jpg'><i>hay menos posibilidades de que pasaré mi tiempo</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
 {{< pops "as I had planned." "<img src='images/spanish.jpg'><i>como lo había planeado</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
 {{< pops "Doing the most important thing" "<img src='images/spanish.jpg'><i>hacer lo más importante</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}first each day
 {{< pops "helps avoid that." "<img src='images/spanish.jpg'><i>ayuda a evitar eso</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
@@ -191,11 +220,12 @@ the most important thing first each day,
 {{< pops "as soon as possible." "<img src='images/spanish.jpg'><i>lo más pronto posible</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}(
 {{< pops "Just" "<img src='images/spanish.jpg'><i>justamente</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
 {{< pops "another reason why" "<img src='images/spanish.jpg'><i>otra razón</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "getting started is more important than succeeding." "<img src='images/spanish.jpg'><i>empezar desde temprano es más importante que triunfar</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}})
+{{< pops "getting started is more important than succeeding." "<img src='images/spanish.jpg'><i>empezar es más importante que triunfar</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}})
+
 
 <br><br>
 
-<h4>{{< pops "Why We Don't Do It" "<img src='images/spanish.jpg'><i>porqué no lo hacemos</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}</h4>
+<h5>{{< pops "Why We Don't Do It" "<img src='images/spanish.jpg'><i>porqué no lo hacemos</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}</h5>
 
 
 {{< pops "Most people" "<img src='images/spanish.jpg'><i>la mayoría de la gente</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
@@ -275,7 +305,7 @@ the most important thing first each day,
 
 <br><br>
 
-<h4>{{< pops "Not a Morning Person?" "<img src='images/spanish.jpg'><i>¿no eres una persona mañanera?</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}</h4>
+<h5>{{< pops "Not a Morning Person?" "<img src='images/spanish.jpg'><i>¿no eres una persona mañanera?</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}</h5>
 
 
 {{< pops "Does the word morning make you mourn?" "<img src='images/spanish.jpg'><i>la palabra mañana te hace doler</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}

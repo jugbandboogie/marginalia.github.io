@@ -19,7 +19,7 @@ The song, which *describes the pain of a man feeling left out in a love triangle
 
 ## Study the Lyrics
 
-{{< reading >}}
+{{< lyrics >}}
 
 (Intro)
 <br>
@@ -175,7 +175,7 @@ Don't, don't, don't, don't
 You're gettin' over him
 
 
-{{< /reading >}}
+{{< /lyrics >}}
 
 <hr>
 

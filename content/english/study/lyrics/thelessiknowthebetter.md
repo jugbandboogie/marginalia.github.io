@@ -19,7 +19,7 @@ The song, which *describes the pain of a man feeling left out in a love triangle
 
 ## Study the lyrics
 
-{{< reading >}}
+{{< lyrics >}}
 
 {{< pops "Someone said" "alguien dijo <img src='images/spanish.jpg'>" "<i>someone = alguien<br>said = dijo<br><br></i><b>Study:</b><br>indefinite pronouns (<i>someone</i>)<br>simple past (<i>said</i>)" >}}
 {{< pops "they left" "<img src='images/spanish.jpg'> <b><i>ellos abandonaron</i></b><br><i>they = ellos<br>left = abandonaron/dejaron/partieron<br><br></i><b>Study:</b><br>personal pronouns (<i>they</i>)<br><a href='/simple-present' target='_blank' rel='noopener noreferrer'>simple past</a> (<i>left</i>)<br>ommited conjunction">}}
@@ -133,7 +133,7 @@ Superman
 
 
 
-{{< /reading >}}
+{{< /lyrics >}}
 
 
 
