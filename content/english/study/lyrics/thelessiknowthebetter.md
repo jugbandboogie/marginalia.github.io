@@ -2,7 +2,7 @@
 title: "The Less I Know The Better (by Tame Impala)"
 meta_title: ""
 description: "Study English with this song by Australian band Tame Impala."
-image: "/images/tame-impala.jpg"
+image: "/tame-impala.jpg"
 Study: ["Lyrics"]
 tags: "Australian"
 URL: "/thelessiknowthebetter/"
@@ -19,75 +19,77 @@ The song, which *describes the pain of a man feeling left out in a love triangle
 
 ## Study the lyrics
 
-{{< lyrics >}}
+{{< readit >}}
 
-{{< pops "Someone said" "alguien dijo <img src='images/spanish.jpg'>" "<i>someone = alguien<br>said = dijo<br><br></i><b>Study:</b><br>indefinite pronouns (<i>someone</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "they left" "<img src='images/spanish.jpg'> <b><i>ellos abandonaron</i></b><br><i>they = ellos<br>left = abandonaron/dejaron/partieron<br><br></i><b>Study:</b><br>personal pronouns (<i>they</i>)<br><a href='/simple-present' target='_blank' rel='noopener noreferrer'>simple past</a> (<i>left</i>)<br>ommited conjunction">}}
-{{< pops "together" "<img src='images/spanish.jpg'> <b><i>juntos</i></b>">}}
+
+<a data-bs-title="<img src='/spanish.jpg'> alguien dijo" data-bs-content="<i>someone = alguien<br>said = dijo<br><br></i><b>Study:</b><br>indefinite pronouns (<i>someone</i>)<br>simple past (<i>said</i>)" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Someone said</a>
+<a data-bs-title="<img src='/spanish.jpg'> ellos abandonaron" data-bs-content="<i>they = ellos<br>left = abandonaron/dejaron/partieron<br><br></i><b>Study:</b><br>personal pronouns (<i>they</i>)<br><a href='/simple-present' target='_blank' rel='noopener noreferrer'>simple past</a> (<i>left</i>)<br>ommited conjunction" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">they left</a>
+<a data-bs-title="<img src='/spanish.jpg'> juntos" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">together</a>
 <br>
-{{< pops "I ran out the door" "<img src='images/spanish.jpg'> <b><i>yo salí corriendo por la puerta</b></i><br><i>I = yo<br>ran out = salí corriento<br>the door = la puerta<br><br></i><b>Study:</b><br>personal pronouns (<i>I</i>)<br>simple past (<i>ran</i>)<br>phrasal verbs (<i>ran out</i>)<br>articles (<i>the</i>)">}}
-{{< pops "to get her" "<img src='images/spanish.jpg'> <b><i>para alcanzarla</b></i><br><i>to = para<br>get her = alcanzarla<br><br></i><b>Study:</b><br>infinitive verbs (<i>to</i>)<br>polysemous words (<i>get</i>)<br>object pronouns (<i>her</i>)">}}
+<a data-bs-title="<img src='/spanish.jpg'> yo salí corriendo por la puerta" data-bs-content="<i>I = yo<br>ran out = salí corriento<br>the door = la puerta<br><br></i><b>Study:</b><br>personal pronouns (<i>I</i>)<br>simple past (<i>ran</i>)<br>phrasal verbs (<i>ran out</i>)<br>articles (<i>the</i>)" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">I ran out the door</a>
+<a data-bs-title="<img src='/spanish.jpg'> para alcanzarla" data-bs-content="to = para<br>get her = alcanzarla<br><br></i><b>Study:</b><br>infinitive verbs (<i>to</i>)<br>polysemous words (<i>get</i>)<br>object pronouns (<i>her</i>)" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">to get her</a>
 <br>
-{{< pops "She was holding hands" "<img src='images/spanish.jpg'> <b><i>Ella estaba tomada de la mano</i></b><br><i>She = ella<br>was = estaba<br>holding hands = tomándose de la mano<br><br></i><b>Study:</b><br>Personal Pronouns (<i>She</i>)<br>Past continuous (<i>was holding hands</i>)" >}}
-{{< pops "with Trevor" "<img src='images/spanish.jpg'> <b><i>con Trevor</i></b>" >}}
+<a data-bs-title="<img src='/spanish.jpg'> Ella estaba tomada de la mano" data-bs-content="<i>She = ella<br>was = estaba<br>holding hands = tomándose de la mano<br><br></i><b>Study:</b><br>Personal Pronouns (<i>She</i>)<br>Past continuous (<i>was holding hands</i>)" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">She was holding hands</a>
+<a data-bs-title="<img src='/spanish.jpg'> con Trevor" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">with Trevor</a>
 <br>
-{{< pops "Not the greatest feeling ever" "<img src='images/spanish.jpg'> <b><i>No el mejor sentimiento</i></b><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>indefinite pronouns (<i>someone</i>)<br>simple past (<i>said</i>)" >}}
+<a data-bs-title="<img src='/spanish.jpg'> No el mejor sentimiento" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Not the greatest feeling ever</a>
 <br>
-{{< pops "Said" "<img src='images/spanish.jpg'> <b><i>Me dije</i></b><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>indefinite pronouns (<i>someone</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "Pull yourself together" "<img src='images/spanish.jpg'> <b><i>Contrólate</i></b><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>indefinite pronouns (<i>someone</i>)<br>simple past (<i>said</i>)" >}}
+<a data-bs-title="<img src='/spanish.jpg'> Me dije" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Said</a>
+<a data-bs-title="<img src='/spanish.jpg'> Contrólate" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Pull yourself together</a>
 <br>
-{{< pops "You should" "<img src='images/spanish.jpg'> <b><i>Tú deberías</i></b><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>indefinite pronouns (<i>someone</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "try your luck" "<img src='images/spanish.jpg'> <b><i>probar suerte</i></b><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>indefinite pronouns (<i>someone</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "with Heather" "<img src='images/spanish.jpg'> <b><i>con Heather</i></b><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>indefinite pronouns (<i>someone</i>)<br>simple past (<i>said</i>)" >}}
+<a data-bs-title="<img src='/spanish.jpg'> Tú deberías" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">You should</a>
+<a data-bs-title="<img src='/spanish.jpg'> probar suerte" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">try your luck</a>
+<a data-bs-title="<img src='/spanish.jpg'> con Heather" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">with Heather</a>
 <br>
-{{< pops "Then" "<img src='images/spanish.jpg'> <b><i>Luego</i></b>" >}}
-{{< pops "I heard" "<img src='images/spanish.jpg'> <b><i>Escuché</i></b><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>indefinite pronouns (<i>someone</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "they slept" "<img src='images/spanish.jpg'> <b><i>se acostaron</i></b><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>indefinite pronouns (<i>someone</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "together" "<img src='images/spanish.jpg'> <b><i>juntos</i></b>" >}}
-<br>
-Oh, {{< pops "the less I know the better" "<img src='images/spanish.jpg'> <b><i>Cuantó menos sepa, mejor</i></b><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>indefinite pronouns (<i>someone</i>)<br>simple past (<i>said</i>)" >}}
+<a data-bs-title="<img src='/spanish.jpg'> Luego" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Then</a>
+<a data-bs-title="<img src='/spanish.jpg'> Escuché" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">I heard</a>
+<a data-bs-title="<img src='/spanish.jpg'> se acostaron" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">they slept</a>
+<a data-bs-title="<img src='/spanish.jpg'> juntos" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">together</a>
+<br>Oh, 
+<a data-bs-title="<img src='/spanish.jpg'> Cuantó menos sepa, mejor" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">the less I know the better</a>
 <br>
 The less I know the better
 <br> 
-{{< pops "Chorus" "<img src='images/spanish.jpg'> <b><i>Coro</i></b>">}}
+<a data-bs-title="<img src='/spanish.jpg'> Coro" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Chorus</a>
+<br>Oh, 
+<a data-bs-title="<img src='/spanish.jpg'> mi amor" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">my love</a>
 <br>
-Oh, {{< pops "my love" "<img src='images/spanish.jpg'> <b><i>mi amor</i></b><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>indefinite pronouns (<i>someone</i>)<br>simple past (<i>said</i>)">}}
+<a data-bs-title="<img src='/spanish.jpg'> no puedes verte" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Can't you see yourself</a>
+<a data-bs-title="<img src='/spanish.jpg'> a mi lado" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">by my side</a>
 <br>
-{{< pops "Can't you see yourself" "<img src='images/spanish.jpg'> <b><i>no puedes verte</i></b><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>indefinite pronouns (<i>someone</i>)<br>simple past (<i>said</i>)">}}
-{{< pops "by my side" "<img src='images/spanish.jpg'> <b><i>a mi lado</i></b><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>indefinite pronouns (<i>someone</i>)<br>simple past (<i>said</i>)">}}
+<a data-bs-title="<img src='/spanish.jpg'> no es una sorpresa" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">No surprise</a>
 <br>
-{{< pops "No surprise" "<img src='images/spanish.jpg'> <b><i>no es una sorpresa</i></b><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>indefinite pronouns (<i>someone</i>)<br>simple past (<i>said</i>)">}}
-<br>
-{{< pops "When" "<img src='images/spanish.jpg'> <b><i>cuando</i></b>">}}
-{{< pops "you're" "<img src='images/spanish.jpg'> <b><i>tú estás</i></b><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>indefinite pronouns (<i>someone</i>)<br>simple past (<i>said</i>)">}}
-{{< pops "on his shoulder" "<img src='images/spanish.jpg'> <b><i>en su hombro</i></b><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>indefinite pronouns (<i>someone</i>)<br>simple past (<i>said</i>)">}}
-{{< pops "like" "<img src='images/spanish.jpg'> <b><i>como</i></b>">}}
-{{< pops "every night" "<img src='images/spanish.jpg'> <b><i>todas las noches</i></b><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>indefinite pronouns (<i>someone</i>)<br>simple past (<i>said</i>)">}}
+<a data-bs-title="<img src='/spanish.jpg'> cuando" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">When</a>
+<a data-bs-title="<img src='/spanish.jpg'> tú estás" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">you're</a>
+<a data-bs-title="<img src='/spanish.jpg'> en su hombro" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">on his shoulder</a>
+<a data-bs-title="<img src='/spanish.jpg'> como" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">like</a>
+<a data-bs-title="<img src='/spanish.jpg'> todas las noches" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">every night</a>
 <br>
 Oh, my love
 <br>
-{{< pops "Can't you see" "<img src='images/spanish.jpg'> <b><i>no puedes ver</i></b><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>indefinite pronouns (<i>someone</i>)<br>simple past (<i>said</i>)">}}
-{{< pops "that you're on my mind?" "<img src='images/spanish.jpg'> <b><i>que estás en mi mente</i></b><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>indefinite pronouns (<i>someone</i>)<br>simple past (<i>said</i>)">}}
+<a data-bs-title="<img src='/spanish.jpg'> no puedes ver" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Can't you see</a>
+<a data-bs-title="<img src='/spanish.jpg'> que estás en mi mente" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">that you're on my mind?</a>
 <br>
-{{< pops "Don't suppose" "<img src='images/spanish.jpg'> <b><i>No supongo</i></b><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>indefinite pronouns (<i>someone</i>)<br>simple past (<i>said</i>)">}}
-{{< pops "you could convince your lover" "<img src='images/spanish.jpg'> <b><i>podrías convencer a tu amante</i></b><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>indefinite pronouns (<i>someone</i>)<br>simple past (<i>said</i>)">}}
+<a data-bs-title="<img src='/spanish.jpg'> No supongo" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Don't suppose</a>
+<a data-bs-title="<img src='/spanish.jpg'> podrías convencer a tu amante" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">you could convince your lover</a>
+<a data-bs-title="<img src='/spanish.jpg'> que cambie de opinión" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">to change his mind</a>
 <br>
-{{< pops "to change his mind" "<img src='images/spanish.jpg'> <b><i>que cambie de opinión</i></b><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>indefinite pronouns (<i>someone</i>)<br>simple past (<i>said</i>)">}}
+<a data-bs-title="<img src='/spanish.jpg'> Así que adiós" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">So goodbye</a>
 <br>
-{{< pops "So goodbye" "<img src='images/spanish.jpg'> <b><i>Así que adiós</i></b><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>indefinite pronouns (<i>someone</i>)<br>simple past (<i>said</i>)">}}
+[Verse 2]
 <br>
-{{< pops "She said" "<img src='images/spanish.jpg'> <b><i>Ella dijo</i></b><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>indefinite pronouns (<i>someone</i>)<br>simple past (<i>said</i>)">}}
-{{< pops "It's not now or never" "<img src='images/spanish.jpg'> <b><i>no es ahora o nunca</i></b><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>indefinite pronouns (<i>someone</i>)<br>simple past (<i>said</i>)">}}
+<a data-bs-title="<img src='/spanish.jpg'> Ella dijo" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">She said</a>
+<a data-bs-title="<img src='/spanish.jpg'> no es ahora o nunca" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">It's not now or never</a>
 <br>
-{{< pops "Wait ten years" "<img src='images/spanish.jpg'> <b><i>Espera 10 años</i></b><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>indefinite pronouns (<i>someone</i>)<br>simple past (<i>said</i>)">}}
-{{< pops "we'll be together" "<img src='images/spanish.jpg'> <b><i>estaremos juntos</i></b><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>indefinite pronouns (<i>someone</i>)<br>simple past (<i>said</i>)">}}
+<a data-bs-title="<img src='/spanish.jpg'> Espera 10 años" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Wait ten years</a>
+<a data-bs-title="<img src='/spanish.jpg'> estaremos juntos" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">we'll be together</a>
 <br>
-{{< pops "I said" "<img src='images/spanish.jpg'> <b><i>Yo dije</i></b><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>indefinite pronouns (<i>someone</i>)<br>simple past (<i>said</i>)">}}
-{{< pops "Better late than never" "<img src='images/spanish.jpg'> <b><i>más vale tarde que junca</i></b><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>indefinite pronouns (<i>someone</i>)<br>simple past (<i>said</i>)">}}
+<a data-bs-title="<img src='/spanish.jpg'> Yo dije" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">I said</a>
+<a data-bs-title="<img src='/spanish.jpg'> más vale tarde que junca" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Better late than never</a>
 <br>
-{{< pops "Just" "<img src='images/spanish.jpg'> <b><i>Solo</i></b>">}}
-{{< pops "don't make me wait" "<img src='images/spanish.jpg'> <b><i>no me hagas esperar</i></b><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>indefinite pronouns (<i>someone</i>)<br>simple past (<i>said</i>)">}}
-{{< pops "forever" "<img src='images/spanish.jpg'> <b><i>para siempre</i></b>">}}
+<a data-bs-title="<img src='/spanish.jpg'> Solo" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Just</a>
+<a data-bs-title="<img src='/spanish.jpg'> no me hagas esperar" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">don't make me wait</a>
+<a data-bs-title="<img src='/spanish.jpg'> para siempre" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">forever</a>
 <br>
 Don't make me wait forever
 <br>
@@ -98,42 +100,47 @@ Chorus
 ----------
 <br>
 Outro
-{{< pops "I was doing fine" "<img src='images/spanish.jpg'> <b><i>Me iba bien</i></b><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>indefinite pronouns (<i>someone</i>)<br>simple past (<i>said</i>)">}}
-{{< pops "without ya" "<img src='images/spanish.jpg'> <b><i>sin ti</i></b><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>indefinite pronouns (<i>someone</i>)<br>simple past (<i>said</i>)">}}
 <br>
-{{< pops "Till I saw" "<img src='images/spanish.jpg'> <b><i>Hasta que vi</i></b><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>indefinite pronouns (<i>someone</i>)<br>simple past (<i>said</i>)">}}
-{{< pops "your face" "<img src='images/spanish.jpg'> <b><i>tu cara</i></b><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>indefinite pronouns (<i>someone</i>)<br>simple past (<i>said</i>)">}}
+<a data-bs-title="<img src='/spanish.jpg'> Me iba bien" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">I was doing fine</a>
+<a data-bs-title="<img src='/spanish.jpg'> sin ti" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">without ya</a>
 <br>
-{{< pops "Now" "<img src='images/spanish.jpg'> <b><i>ahora</i></b>">}}
-{{< pops "I can't erase" "<img src='images/spanish.jpg'> <b><i>ahora no la puedo borrar</i></b><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>indefinite pronouns (<i>someone</i>)<br>simple past (<i>said</i>)">}}
+<a data-bs-title="<img src='/spanish.jpg'> Hasta que vi" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Till I saw</a>
+<a data-bs-title="<img src='/spanish.jpg'> tu cara" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">your face</a>
 <br>
-{{< pops "Givin' in to all his bullshit" "<img src='images/spanish.jpg'> <b><i>Cediendo a toda su mierda</i></b><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>indefinite pronouns (<i>someone</i>)<br>simple past (<i>said</i>)">}}
+<a data-bs-title="<img src='/spanish.jpg'> ahora" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Now</a>
+<a data-bs-title="<img src='/spanish.jpg'> no la puedo borrar" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">I can't erase</a>
 <br>
-{{< pops "Is this" "<img src='images/spanish.jpg'> <b><i>es esto</i></b><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>indefinite pronouns (<i>someone</i>)<br>simple past (<i>said</i>)">}}
-{{< pops "what you want?" "<img src='images/spanish.jpg'> <b><i>lo que quieres?</i></b><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>indefinite pronouns (<i>someone</i>)<br>simple past (<i>said</i>)">}}
+<a data-bs-title="<img src='/spanish.jpg'> Cediendo a toda su mierda" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Givin' in to all his bullshit</a>
 <br>
-Is this
-{{< pops "who you are?" "<img src='images/spanish.jpg'> <b><i>lo que eres?</i></b><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>indefinite pronouns (<i>someone</i>)<br>simple past (<i>said</i>)">}}
+<a data-bs-title="<img src='/spanish.jpg'> es esto" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Is this</a>
+<a data-bs-title="<img src='/spanish.jpg'> lo que quieres?" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">what you want?</a>
+<br>Is this
+<a data-bs-title="<img src='/spanish.jpg'> lo que eres?" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">who you are?</a>
 <br>
 I was doing fine without ya
 <br>
 Till I saw
-{{< pops "your eyes turn away" "<img src='images/spanish.jpg'> <b><i>tus ojos alejarte de los míos</i></b><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>indefinite pronouns (<i>someone</i>)<br>simple past (<i>said</i>) ">}}
-{{< pops "from mine" "<img src='images/spanish.jpg'> This is the content inside<br>Some more content">}}
-<br>
-Oh,
-{{< pops "sweet darling" "<img src='images/spanish.jpg'> <b><i>cariño</i></b><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>indefinite pronouns (<i>someone</i>)<br>simple past (<i>said</i>)">}}
-{{< pops "where he wants you" "<img src='images/spanish.jpg'> <b><i>dónde te quiere</i></b><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>indefinite pronouns (<i>someone</i>)<br>simple past (<i>said</i>)">}}
+<a data-bs-title="<img src='/spanish.jpg'> tus ojos alejarte de los míos" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">your eyes turn away</a>
+<a data-bs-title="<img src='/spanish.jpg'> de los míos" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">from mine</a>
+<br>Oh,
+<a data-bs-title="<img src='/spanish.jpg'> cariño" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">sweet darling</a>
+<a data-bs-title="<img src='/spanish.jpg'> dónde te quiere" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">where he wants you</a>
 <br>
 Said, 
-{{< pops "come on" "<img src='images/spanish.jpg'> <b><i>vamos</i></b><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>indefinite pronouns (<i>someone</i>)<br>simple past (<i>said</i>)">}}
+<a data-bs-title="<img src='/spanish.jpg'> vamos" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">come on,</a>
 Superman
+<a data-bs-title="<img src='/spanish.jpg'> dí tu estúpida línea" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Say your stupid line</a>
 <br>
-{{< pops "Say your stupid line" "<img src='images/spanish.jpg'> <b><i>dí tu estúpida línea</i></b><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>indefinite pronouns (<i>someone</i>)<br>simple past (<i>said</i>)">}}
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">ENGLISH</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">ENGLISH</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">ENGLISH</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">ENGLISH</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">ENGLISH</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">ENGLISH</a>
+
+{{< /readit >}}
 
 
-
-{{< /lyrics >}}
 
 
 
