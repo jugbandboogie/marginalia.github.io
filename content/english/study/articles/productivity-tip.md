@@ -9,7 +9,15 @@ URL: "/productivity-tip/"
 draft: false
 ---
 
+<hr>
+
+## Context
+
 {{< param description >}}
+
+<hr>
+
+“Do the most important thing first each day” 
 
 ## Study this article
 
@@ -17,352 +25,320 @@ draft: false
 
 {{< reading >}}
 
-<h3>The Only Productivity Tip You’ll Ever Need</h3>
+<h4>The Only Productivity Tip You’ll Ever Need</h4>
 <br>
 
 <i>Ernest Hemingway</i>
-{{< pops "woke each morning" "<img src='images/spanish.jpg'><i>despertaba cada mañana</i><br><br><i>woke = despertaba/despertó<br>each = cada<br>morning = mañana<br><br></i><b>Study:</b><br>simple past (<i>woke</i>)<br>quantifiers (<i>each</i>)" >}}
-{{< pops "and" "<img src='images/spanish.jpg'><i>y</i><br><br><b>Study:</b><br><a href='/simple-present' target='_blank' rel='noopener noreferrer'>Connectors</a> (<i>and</i>)" >}}
-{{< pops "began writing" "<img src='images/spanish.jpg'><i>comenzaba a escribir</i><br><br><i>began = comenzaba<br>writing = a escribir<br><br></i><b>Study:</b><br>simple past (<i>began</i>)<br>verb patterns" >}}
-{{< pops "straight away." "<img src='images/spanish.jpg'><i>de inmediato</i><br><br><b>Study:</b> adverbs" >}}
-
-<br><br>
-
-{{< pops "He described" "<img src='images/spanish.jpg'><i>Él describó</i><br><br><i>He = él<br>described = describió<br><br></i><b>Study:</b><br>personal pronouns (<i>He</i>)<br>simple past (<i>described</i>)" >}}
-{{< pops "his daily routine" "<img src='images/spanish.jpg'><i>su rutina diaria</i><br><br><i>his = su<br>daily = diario<br>routine = rutina<br></i><b>Study:</b><br>Possessive adjectives (<i>his</i>)<br>Adverbs (<i>daily</i>)" >}}
-{{< pops "by saying," "<img src='images/spanish.jpg'><i>diciendo</i><br><br><i>his = su<br>daily = diario<br>routine = rutina<br></i><b>Study:</b><br>Possessive adjectives (<i>his</i>)<br>Adverbs (<i>daily</i>)" >}}
-{{< pops "When" "<img src='images/spanish.jpg'><i>Cuando</i><br>" >}}
-{{< pops "I am working on a book or a story" "<img src='images/spanish.jpg'><i>Estoy trabajando en un libro o una historia</i><br><br><i>I am working = estoy trabajando<br>on a book = en un libro<br><br></i><b>Study:</b><br>Personal Pronouns (<i>I</i>)<br>Present continuous (<i>I am working</i>)<br>Prepositions (<i>on</i>)<br>Conjunctions (<i>or</i>)" >}}
-{{< pops "I write every morning" "<img src='images/spanish.jpg'><i>escribo cada mañana</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>indefinite pronouns (<i>someone</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "as soon after first light as possible" "<img src='images/spanish.jpg'><i>lo más temprano posible</i><br><br><i>as soon as possible = lo más temprano posible<br>after = después<br>first light = primera luz (del día)</i><br><br>*La expresión <i>first light</i> se utiliza como adverbio a la frase <i>as soon as possible</i> para añadir más información.<br><br><b>Study:</b><br>indefinite pronouns (<i>someone</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "There is no one" "<img src='images/spanish.jpg'><i>No hay nadie</i><br><br><i>There is = hay<br>no one = nadie<br><br></i><b>Study:</b><br>There is/There are<br>indefinite pronouns (<i>no one</i>)" >}}
-{{< pops "to disturb you" "<img src='images/spanish.jpg'><i>para molestarte</i><br><br><i>to disturb = molestar<br>you = a ti/te (sufijo)<br><br></i><br>*El verbo <i>disturb</i> debe llevar la preposición <i>to</i> ya que viene después del verbo to be <i>is</i><br><br><b>Study:</b><br>verb to be<br>verb patterns<br>object pronouns (<i>you</i>)" >}}
-and
-{{< pops "it is cool or cold" "<img src='images/spanish.jpg'><i>está fresco o helado</i><br><br><i>it is = está<br>cool = fresco<br>cold = helado<br></i><br>*Se utiliza <i>It is</i> para hablar del clima.<b>Study:</b><br>Personal pronouns (<i>it</i>)<br>Verb to be (<i>is</i>)" >}}
-{{< pops "you come to your work" "<img src='images/spanish.jpg'><i>vienes a tu trabajo</i><br><br><i>come = venir<br>to = a/hacia/destino a<br><br></i><b>Study:</b><br>Personal Pronouns (<i>you</i>)<br>Prepositions (<i>to</i>)<br>Possessive Adjectives (<i>your</i>)" >}}
-{{< pops "warm as you write." "<img src='images/spanish.jpg'><i>entras en calor mientras escribes</i><br><br><i>warm (up) = entrar en calor<br>as = mientras<br>you write = escribes<br></i><b>Study:</b><br>poly words (<i>as</i>)<br>Personal pronouns (<i>I</i>)" >}}"
-
-<br><br>
-
-{{< pops "Hemingway's routine" "<img src='images/spanish.jpg'><i>La rutina de Hemingway</i><br><br><b>Study:</b><br>Possessives (<i>Hemingway's</i>)" >}}
-{{< pops "hints at" "<img src='images/spanish.jpg'><i>indica</i><br><br><b>Study:</b><br>Possessives (<i>Hemingway's</i>)" >}}
-{{< pops "the most productive strategy" "<img src='images/spanish.jpg'><i>La estrategia más productiva</i><br><br><i>I have found = He encontrado<br><br></i><b>Study:</b><br>Superlatives (<i>The most</i>)<br>Present Perfect (<i>I have found</i>)<br>Ommited Conjunctions" >}}
-{{< pops "I have found" "<img src='images/spanish.jpg'><i>que he encontrado</i><br><br><i>I have found = He encontrado<br><br></i><b>Study:</b><br>Superlatives (<i>The most</i>)<br>Present Perfect (<i>I have found</i>)<br>Ommited Conjunctions" >}}
-{{< pops "for getting things done" "<img src='images/spanish.jpg'><i>para ser productivo</i><br><br><i>Get things done = hacer las cosas</i> (expresión ocupada para referirse a la productividad)<br><br><b>Study:</b><br>Prepositions (<i>for</i>)<br> The Past Participle (<i>done</i>)<br>Adverbs (<i>daily</i>)" >}}
-and
-{{< pops "making daily progress" "<img src='images/spanish.jpg'><i>hacer progreso diario</i><br><br><i>Get things done = hacer las cosas</i> (expresión ocupada para referirse a la productividad)<br><br><b>Study:</b><br>Prepositions (<i>for</i>)<br> The Past Participle (<i>done</i>)<br>Adverbs (<i>daily</i>)" >}}
-{{< pops "in the areas" "<img src='images/spanish.jpg'><i>en las áreas</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>indefinite pronouns (<i>someone</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "that are important" "<img src='images/spanish.jpg'><i>que son importantes</i><br><br><i>that are = que son<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Connectors (<i>that</i>)<br>Prepositions (<i>to</i>)<br>Object Pronouns" >}}
-{{< pops "to you." "<img src='images/spanish.jpg'><i>para ti</i><br><br><i>that are = que son<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Connectors (<i>that</i>)<br>Prepositions (<i>to</i>)<br>Object Pronouns" >}}
+<a data-bs-title="<img src='/spanish.jpg'> despertaba cada mañana" data-bs-content="woke = despertaba/despertó<br>each = cada<br>morning = mañana<br><br></i><b>Study:</b><br>simple past (<i>woke</i>)<br>quantifiers (<i>each</i>)" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">woke each morning</a>
+<a data-bs-title="<img src='/spanish.jpg'> y" data-bs-content="Study:</b><br><a href='/simple-present' target='_blank' rel='noopener noreferrer'>Connectors</a> (<i>and</i>)" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">and</a>
+<a data-bs-title="<img src='/spanish.jpg'> comenzaba a escribir" data-bs-content="began = comenzaba<br>writing = a escribir<br><br></i><b>Study:</b><br>simple past (<i>began</i>)<br>verb patterns" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">began writing</a>
+<a data-bs-title="<img src='/spanish.jpg'> de inmediato" data-bs-content="Study:</b> adverbs" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">straight away</a>.
 
 
 <br><br>
+<a data-bs-title="<img src='/spanish.jpg'> Él describó" data-bs-content="He = él<br>described = describió<br><br></i><b>Study:</b><br>personal pronouns (<i>He</i>)<br>simple past (<i>described</i>)" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">He described</a>
+<a data-bs-title="<img src='/spanish.jpg'> su rutina diaria" data-bs-content="his = su<br>daily = diario<br>routine = rutina<br></i><b>Study:</b><br>Possessive adjectives (<i>his</i>)<br>Adverbs (<i>daily</i>)" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">his daily routine</a>
+<a data-bs-title="<img src='/spanish.jpg'> diciendo" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">by saying</a>,
+"<a data-bs-title="<img src='/spanish.jpg'> Cuando" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">When</a>
+<a data-bs-title="<img src='/spanish.jpg'> Estoy trabajando en un libro o una historia" data-bs-content="I am working = estoy trabajando<br>on a book = en un libro<br><br></i><b>Study:</b><br>Personal Pronouns (<i>I</i>)<br>Present continuous (<i>I am working</i>)<br>Prepositions (<i>on</i>)<br>Conjunctions (<i>or</i>)" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">I am working on a book or a story</a>
+<a data-bs-title="<img src='/spanish.jpg'> escribo cada mañana" data-bs-content="<i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>indefinite pronouns (<i>someone</i>)<br>simple past (<i>said</i>)" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">I write every morning</a>
+<a data-bs-title="<img src='/spanish.jpg'> lo más temprano posible" data-bs-content="<i>as soon as possible = lo más temprano posible<br>after = después<br>first light = primera luz (del día)</i><br><br>*La expresión <i>first light</i> se utiliza como adverbio a la frase <i>as soon as possible</i> para añadir más información.<br><br><b>Study:</b><br>indefinite pronouns (<i>someone</i>)<br>simple past (<i>said</i>)" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">as soon after first light as possible</a>.
+<a data-bs-title="<img src='/spanish.jpg'> No hay nadie" data-bs-content="<i>There is = hay<br>no one = nadie<br><br></i><b>Study:</b><br>There is/There are<br>indefinite pronouns (<i>no one</i>)" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">There is no one</a>
+<a data-bs-title="<img src='/spanish.jpg'> para molestarte" data-bs-content="<i>to disturb = molestar<br>you = a ti/te (sufijo)<br><br></i><br>*El verbo <i>disturb</i> debe llevar la preposición <i>to</i> ya que viene después del verbo to be <i>is</i><br><br><b>Study:</b><br>verb to be<br>verb patterns<br>object pronouns (<i>you</i>)" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">to disturb you</a> and
+<a data-bs-title="<img src='/spanish.jpg'> está fresco o helado" data-bs-content="<i>it is = está<br>cool = fresco<br>cold = helado<br></i><br>*Se utiliza <i>It is</i> para hablar del clima.<b>Study:</b><br>Personal pronouns (<i>it</i>)<br>Verb to be (<i>is</i>)" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">it is cool or cold</a> and
+<a data-bs-title="<img src='/spanish.jpg'> vienes a tu trabajo" data-bs-content="<i>come = venir<br>to = a/hacia/destino a<br><br></i><b>Study:</b><br>Personal Pronouns (<i>you</i>)<br>Prepositions (<i>to</i>)<br>Possessive Adjectives (<i>your</i>)" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">you come to your work</a>
+<a data-bs-title="<img src='/spanish.jpg'> entras en calor mientras escribes" data-bs-content="<i>warm (up) = entrar en calor<br>as = mientras<br>you write = escribes<br></i><b>Study:</b><br>poly words (<i>as</i>)<br>Personal pronouns (<i>I</i>)" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">warm as you write</a>."
 
-{{< pops "Let's talk" "<img src='images/spanish.jpg'><i>Hablemos</i><br><br><i>Let's talk = hablemos/vamos a hablar<br><br></i><b>Study:</b><br>Suggestions (<i>let's</i>)<br>Prepositions (<i>about</i>)" >}}
-about
-{{< pops "the only" "<img src='images/spanish.jpg'><i>el único</i><br><br><i>only = único<br>tip = consejo<br>ever = alguna vez<br><br></i><b>Study:</b><br>Personal Pronouns (<i>You</i>)<br>Future (<i>Will need</i>)<br>Adverbs (<i>ever</i>)" >}}
-{{< pops "productivity tip" "<img src='images/spanish.jpg'><i>consejo de productividad</i><br><br><i>only = único<br>tip = consejo<br>ever = alguna vez<br><br></i><b>Study:</b><br>Personal Pronouns (<i>You</i>)<br>Future (<i>Will need</i>)<br>Adverbs (<i>ever</i>)" >}}
-{{< pops "you'll ever need," "<img src='images/spanish.jpg'><i>que vas a necesitar jamás</i><br><br><i>only = único<br>tip = consejo<br>ever = alguna vez<br><br></i><b>Study:</b><br>Personal Pronouns (<i>You</i>)<br>Future (<i>Will need</i>)<br>Adverbs (<i>ever</i>)" >}}
-{{< pops "why it works" "<img src='images/spanish.jpg'><i>porqué funciona</i><br><br><i>why = porqué<br><br></i><b>Study:</b><br>Wh-words (<i>why</i>)<br>simple present (<i>it works</i>)" >}}
-and
-{{< pops "what holds us back" "<img src='images/spanish.jpg'><i>qué nos impide</i><br><br><i>hold back = impedir<br></i><b>Study:</b><br>Wh-words (<i>What</i>)<br>Phrasal Verbs (<i>hold back</i>)<br>Prepositions (<i>from</i>)<br>Object Pronouns (<i>us, it</i>)" >}}
-{{< pops "from using it" "<img src='images/spanish.jpg'><i>utilizarlo</i><br><br><i>hold back = impedir<br></i><b>Study:</b><br>Wh-words (<i>What</i>)<br>Phrasal Verbs (<i>hold back</i>)<br>Prepositions (<i>from</i>)<br>Object Pronouns (<i>us, it</i>)" >}}
-{{< pops "consistently." "<img src='images/spanish.jpg'><i>Constantemente</i><br><br><b>Study:</b><br>Adverbs" >}}
+
+<br><br>
+<a data-bs-title="<img src='/spanish.jpg'> La rutina de Hemingway" data-bs-content="<b>Study:</b><br>Possessives (<i>Hemingway's</i>)" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Hemingway's routine</a>
+<a data-bs-title="<img src='/spanish.jpg'> indica" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">hints at</a>
+<a data-bs-title="<img src='/spanish.jpg'> La estrategia más productiva" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">the most productive strategy</a>
+<a data-bs-title="<img src='/spanish.jpg'> que he encontrado" data-bs-content="<b>Study:</b><br><i>I have found = He encontrado<br><br></i><b>Study:</b><br>Superlatives (<i>The most</i>)<br>Present Perfect (<i>I have found</i>)<br>Ommited Conjunctions" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">I have found</a>
+<a data-bs-title="<img src='/spanish.jpg'> para ser productivo" data-bs-content="<b>Study:</b><br><i>Get things done = hacer las cosas</i> (expresión ocupada para referirse a la productividad)<br><br><b>Study:</b><br>Prepositions (<i>for</i>)<br> The Past Participle (<i>done</i>)<br>Adverbs (<i>daily</i>)" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">for getting things done</a> and
+<a data-bs-title="<img src='/spanish.jpg'> hacer progreso diario" data-bs-content="<b>Study:</b><br>" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">making daily progress</a>
+<a data-bs-title="<img src='/spanish.jpg'> en las áreas" data-bs-content="<b>Study:</b><br>" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">in the areas</a>
+<a data-bs-title="<img src='/spanish.jpg'> que son importantes" data-bs-content="<b>Study:</b><br>Connectors (<i>that</i>)" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">that are important</a>
+<a data-bs-title="<img src='/spanish.jpg'> para ti" data-bs-content="<b>Study:</b><br>Prepositions (<i>to</i>)<br>Object Pronouns" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">to you</a>.
+
+
+<br><br>
+<a data-bs-title="<img src='/spanish.jpg'> Hablemos" data-bs-content="<i>Let's talk = hablemos/vamos a hablar<br><br></i><b>Study:</b><br>Suggestions (<i>let's</i>)<br>Prepositions (<i>about</i>)" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Let's talk</a> about
+<a data-bs-title="<img src='/spanish.jpg'> el único" data-bs-content="<i>only = único<br>tip = consejo<br>ever = alguna vez<br><br></i><b>Study:</b><br>Personal Pronouns (<i>You</i>)<br>Future (<i>Will need</i>)<br>Adverbs (<i>ever</i>)" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">the only</a>
+<a data-bs-title="<img src='/spanish.jpg'> consejo de productividad" data-bs-content="<i>only = único<br>tip = consejo<br>ever = alguna vez<br><br></i><b>Study:</b><br>Personal Pronouns (<i>You</i>)<br>Future (<i>Will need</i>)<br>Adverbs (<i>ever</i>)" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">productivity tip</a>
+<a data-bs-title="<img src='/spanish.jpg'> que vas a necesitar jamás" data-bs-content="<i>only = único<br>tip = consejo<br>ever = alguna vez<br><br></i><b>Study:</b><br>Personal Pronouns (<i>You</i>)<br>Future (<i>Will need</i>)<br>Adverbs (<i>ever</i>)" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">you'll ever need</a>,
+<a data-bs-title="<img src='/spanish.jpg'> porqué funciona" data-bs-content="<i>why = porqué<br><br></i><b>Study:</b><br>Wh-words (<i>why</i>)<br>simple present (<i>it works</i>)" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">why it works</a>, and
+<a data-bs-title="<img src='/spanish.jpg'> qué nos impide" data-bs-content="<i>hold back = impedir<br></i><b>Study:</b><br>Wh-words (<i>What</i>)<br>Phrasal Verbs (<i>hold back</i>)<br>Prepositions (<i>from</i>)<br>Object Pronouns (<i>us, it</i>)" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">what holds us back</a>
+<a data-bs-title="<img src='/spanish.jpg'> utilizarlo" data-bs-content="<i>hold back = impedir<br></i><b>Study:</b><br>Wh-words (<i>What</i>)<br>Phrasal Verbs (<i>hold back</i>)<br>Prepositions (<i>from</i>)<br>Object Pronouns (<i>us, it</i>)" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">from using it</a>
+<a data-bs-title="<img src='/spanish.jpg'> Constantemente" data-bs-content="<b>Study:</b><br>Adverbs" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">consistently</a>.
 
 <br><br>
 
 <h5>
-{{< pops "Productivity," "<img src='images/spanish.jpg'><i>La productividad</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>indefinite pronouns (<i>someone</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "Simplified" "<img src='images/spanish.jpg'><i>simplificada</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>indefinite pronouns (<i>someone</i>)<br>simple past (<i>said</i>)" >}}
+<a data-bs-title="<img src='/spanish.jpg'> La productividad" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Productivity,</a>
+<a data-bs-title="<img src='/spanish.jpg'> simplificada" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Simplified</a>
 </h5>
 
-{{< pops "No need" "<img src='images/spanish.jpg'><i>No es necesario</i><br><br><i>No need = no hay necesidad<br>draw out = prolongar/elongar/estirar<br><br></i><b>Study:</b><br>Phrasal Verbs (<i>draw out</i>)<br>Demonstratives (<i>this</i>)" >}}
-{{< pops "to draw this out." "<img src='images/spanish.jpg'><i>prolongar esto</i><br><br><i>No need = no hay necesidad<br>draw out = prolongar/elongar/estirar<br><br></i><b>Study:</b><br>Phrasal Verbs (<i>draw out</i>)<br>Demonstratives (<i>this</i>)" >}}
-{{< pops "This productivity tip" "<img src='images/spanish.jpg'><i>Este consejo de productividad es sencillo</i><br><br><i>Tip = Consejo<br>Straightforward = sencillo/directo al grano<br><br></i><b>Study:</b><br>Demonstratives (<i>This</i>)<br>Verb to be (<i>is</i>)" >}}
-{{< pops "is straightforward:" "<img src='images/spanish.jpg'><i>Este consejo de productividad es sencillo</i><br><br><i>Tip = Consejo<br>Straightforward = sencillo/directo al grano<br><br></i><b>Study:</b><br>Demonstratives (<i>This</i>)<br>Verb to be (<i>is</i>)" >}}
-{{< pops "Do" "<img src='images/spanish.jpg'><i>Haz</i><br><br><b>Study:</b><br>Imperative mood" >}}
-{{< pops "the most important thing" "<img src='images/spanish.jpg'><i>Haz lo más importante primero</i><br><br><i>thing = cosa<br>first = primero<br><br></i><b>Study:</b><br>Imperative mood (<i>Do</i>)<br>Superlatives (<i>the most important</i>)<br>Numeral (<i>first</i>)" >}}
-{{< pops "first" "<img src='images/spanish.jpg'><i>primero</i><br><br><b>Study:</b><br>Numeral" >}}
-{{< pops "each day." "<img src='images/spanish.jpg'><i>cada día</i><br><br><b>Study:</b><br>Quantifiers (<i>each</i>)" >}}
+<a data-bs-title="<img src='/spanish.jpg'> No es necesario" data-bs-content="<i>No need = no hay necesidad<br>draw out = prolongar/elongar/estirar<br><br></i><b>Study:</b><br>Phrasal Verbs (<i>draw out</i>)<br>Demonstratives (<i>this</i>)" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">No need</a>
+<a data-bs-title="<img src='/spanish.jpg'> prolongar esto" data-bs-content="<i>No need = no hay necesidad<br>draw out = prolongar/elongar/estirar<br><br></i><b>Study:</b><br>Phrasal Verbs (<i>draw out</i>)<br>Demonstratives (<i>this</i>)" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">to draw this out</a>.
+<a data-bs-title="<img src='/spanish.jpg'> Este consejo de productividad" data-bs-content="<i>Tip = Consejo<br><br></i><b>Study:</b><br>Demonstratives (<i>This</i>)" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">This productivity tip</a>
+<a data-bs-title="<img src='/spanish.jpg'> es sencillo" data-bs-content="<i>Straightforward = sencillo/directo al grano<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">is straightforward</a>:
+<a data-bs-title="<img src='/spanish.jpg'> Haz" data-bs-content="<b>Study:</b><br>Imperative mood" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Do</a>
+<a data-bs-title="<img src='/spanish.jpg'> lo más importante" data-bs-content="<i>thing = cosa<br><b>Study:</b><br>Superlatives (<i>the most important</i>)" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">the most important thing</a>
+<a data-bs-title="<img src='/spanish.jpg'> primero" data-bs-content="<b>Study:</b><br>Numeral (<i>first</i>)" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">first</a>
+<a data-bs-title="<img src='/spanish.jpg'> cada día" data-bs-content="<b>Study:</b><br>Quantifiers (<i>each</i>)" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">each day</a>.
 
 <br><br>
-
-{{< pops "Sounds simple." "<img src='images/spanish.jpg'><i>Suena simple</i><br><br><b>Study:</b><br>Present Simple (<i>Sounds</i>)<br>simple present (<i>said</i>)" >}}
-{{< pops "No one does it." "<img src='images/spanish.jpg'><i>Nadie lo hace</i><br><br><b>Study:</b><br>indefinite pronouns (<i>No one</i>)<br>simple present (<i>does</i>)<br>Object Pronouns (<i>it</i>)" >}}
-
-<br><br>
-
-{{< pops "Just like Hemingway" "<img src='images/spanish.jpg'><i>Tal como Hemingway</i><br><br><i>Just = Exactamente<br><br></i><b>Study:</b><br>Prepositions (<i>like</i>)<br>Poly words (<i>just, like</i>)" >}}
-{{< pops "who produced" "<img src='images/spanish.jpg'><i>quién produjo</i><br><br><b>Study:</b><br>Connectors (<i>quién</i>)<br>simple past (<i>produced</i>)" >}}
-{{< pops "a remarkable volume" "<img src='images/spanish.jpg'><i>una cantidad considerable</i><br><br><i>remarkable = notable/destacable/considerable<br>volume = volumen/cantidad<br><br></i><b>Study:</b><br>Articles (<i>a</i>)<br>Prepositions (<i>of</i>)<br>Compound words (<i>high-caliber</i>)" >}}
-{{< pops "of high-caliber work" "<img src='images/spanish.jpg'><i>de trabajo de alto calibre</i><br><br><i>remarkable = notable/destacable/considerable<br>volume = volumen/cantidad<br><br></i><b>Study:</b><br>Articles (<i>a</i>)<br>Prepositions (<i>of</i>)<br>Compound words (<i>high-caliber</i>)" >}}
-{{< pops "during his career," "<img src='images/spanish.jpg'><i>durante su carrera</i><br><br><b>Study:</b><br>Prepositions (<i>during</i>)<br>Possessive Adjectives (<i>his</i>)" >}}
-{{< pops "you can make" "<img src='images/spanish.jpg'><i>puedes hacer</i><br><br><i>make progress = progresar<br><br></i><b>Study:</b><br>Personal Pronouns (<i>you</i>)<br>Auxiliary verbs (<i>can</i>)<br>Adjectives (<i>surprising</i>)" >}}
-{{< pops "surprising progress" "<img src='images/spanish.jpg'><i>progreso sorprendente</i><br><br><i>make progress = progresar<br><br></i><b>Study:</b><br>Personal Pronouns (<i>you</i>)<br>Auxiliary verbs (<i>can</i>)<br>Adjectives (<i>surprising</i>)" >}}
-{{< pops "if you simply do" "<img src='images/spanish.jpg'><i>Si simplemente haces</i><br><br><i>Simply = Simplemente<br>Thing = Cosa<br><br></i><b>Study:</b><br>First Conditional (<i>If you do...</i>)<br>Adverbs (<i>simply</i>)<br>Superlatives (<i>the most important</i>)" >}}
-{{< pops "the most important thing." "<img src='images/spanish.jpg'><i>lo más importante</i><br><br><i>Simply = Simplemente<br>Thing = Cosa<br><br></i><b>Study:</b><br>First Conditional (<i>If you do...</i>)<br>Adverbs (<i>simply</i>)<br>Superlatives (<i>the most important</i>)" >}}
+<a data-bs-title="<img src='/spanish.jpg'> Suena simple" data-bs-content="<b>Study:</b><br>Present Simple (<i>Sounds</i>)<br>simple present (<i>said</i>)" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Sounds simple</a>.
+<a data-bs-title="<img src='/spanish.jpg'> Nadie lo hace" data-bs-content="<b>Study:</b><br>indefinite pronouns (<i>No one</i>)<br>simple present (<i>does</i>)<br>Object Pronouns (<i>it</i>)" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">No one does it</a>.
 
 <br><br>
+<a data-bs-title="<img src='/spanish.jpg'> Tal como Hemingway" data-bs-content="<i>Just = Exactamente<br><br></i><b>Study:</b><br>Prepositions (<i>like</i>)<br>Poly words (<i>just, like</i>)" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Just like Hemingway</a>,
+<a data-bs-title="<img src='/spanish.jpg'> quién produjo" data-bs-content="<b>Study:</b><br>Connectors (<i>quién</i>)<br>simple past (<i>produced</i>)" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">who produced</a>
+<a data-bs-title="<img src='/spanish.jpg'> una cantidad considerable" data-bs-content="<i>remarkable = notable/destacable/considerable<br>volume = volumen/cantidad<br><br></i><b>Study:</b><br>Articles (<i>a</i>)<br>Prepositions (<i>of</i>)<br>Compound words (<i>high-caliber</i>)" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">a remarkable volume</a>
+<a data-bs-title="<img src='/spanish.jpg'> de trabajo de alto calibre" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">of high-caliber work</a>
+<a data-bs-title="<img src='/spanish.jpg'> durante su carrera" data-bs-content="<b>Study:</b><br>Prepositions (<i>during</i>)<br>Possessive Adjectives (<i>his</i>)" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">during his career</a>,
+<a data-bs-title="<img src='/spanish.jpg'> puedes hacer progreso sorprendente" data-bs-content="<i>make progress = progresar<br><br></i><b>Study:</b><br>Personal Pronouns (<i>you</i>)<br>Auxiliary verbs (<i>can</i>)<br>Adjectives (<i>surprising</i>)" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">you can make surprising progress</a> each day
+<a data-bs-title="<img src='/spanish.jpg'> Si simplemente haces" data-bs-content="<i>Simply = Simplemente<br>Thing = Cosa<br><br></i><b>Study:</b><br>First Conditional (<i>If you do...</i>)<br>Adverbs (<i>simply</i>)<br>Superlatives (<i>the most important</i>)" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">if you simply do</a>
+<a data-bs-title="<img src='/spanish.jpg'> lo más importante" data-bs-content="<i>Simply = Simplemente<br>Thing = Cosa<br><br></i><b>Study:</b><br>First Conditional (<i>If you do...</i>)<br>Adverbs (<i>simply</i>)<br>Superlatives (<i>the most important</i>)" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">the most important thing</a> first.
 
-<h5>{{< pops "Why It Works" "<img src='images/spanish.jpg'><i>Porqué funciona</i><br><br><b>Study:</b><br>Wh Words (<i>why</i>)<br>simple present (<i>it works</i>)" >}}</h5>
 
-
-{{< pops "We often assume" "<img src='images/spanish.jpg'><i>Usualmente asumimos</i><br><br><b>Study:</b><br>Personal Pronouns (<i>we</i>)<br>Adverbs (<i>often</i>)" >}}
-{{< pops "productivity means" "<img src='images/spanish.jpg'><i>productividad significa terminar las cosas</i><br><br><i>means = significa<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple present (<i>means</i>)<br>Comparisons (<i>more</i>)" >}}
-{{< pops "getting more things done." "<img src='images/spanish.jpg'><i>productividad significa terminar las cosas</i><br><br><i>means = significa<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple present (<i>means</i>)<br>Comparisons (<i>more</i>)" >}} each day
-{{< pops "Wrong." "<img src='images/spanish.jpg'><i>error</i><br>" >}}
 
 <br><br>
+<h5><a data-bs-title="<img src='/spanish.jpg'> Porqué funciona" data-bs-content="<br><b>Study:</b><br>Wh Words (<i>why</i>)<br>simple present (<i>it works</i>)" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Why It Works</a></h5>
+
+<a data-bs-title="<img src='/spanish.jpg'> Usualmente asumimos que" data-bs-content="b>Study:</b><br>Personal Pronouns (<i>we</i>)<br>Adverbs (<i>often</i>)" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">We often assume that</a>
+<a data-bs-title="<img src='/spanish.jpg'> productividad significa" data-bs-content="<b>Study:</b><br>Verb to be (<i>is</i>)<br>simple present (<i>means</i>)<br>Comparisons (<i>more</i>)" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">productivity means</a>
+<a data-bs-title="<img src='/spanish.jpg'> terminar las cosas" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">getting more things done</a>.
+<a data-bs-title="<img src='/spanish.jpg'> error" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Wrong</a>.
 
 Productivity
-{{< pops "is getting important things done" "<img src='images/spanish.jpg'><i>es lograr cosas importante</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "consistently." "<img src='images/spanish.jpg'><i>constantemente</i><br>" >}}
-{{< pops "And" "<img src='images/spanish.jpg'><i>Y</i><br><br><i>INGLES = ESPAÑOL<br></i><b>Study:</b><br>Verb to be (<i>is</i>)" >}}
-{{< pops "no matter" "<img src='images/spanish.jpg'><i>sin importar</i><br><br><i>INGLES = ESPAÑOL<br></i><b>Study:</b><br>Verb to be (<i>is</i>)" >}}
-{{< pops "what you are working on," "<img src='images/spanish.jpg'><i>en lo que estés trabajando</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "there are" "<img src='images/spanish.jpg'><i>hay</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "only a few things" "<img src='images/spanish.jpg'><i>solamente un par de cosas</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "that are" "<img src='images/spanish.jpg'><i>que son</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "truly important." "<img src='images/spanish.jpg'><i>verdaderamente importantes</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
+<a data-bs-title="<img src='/spanish.jpg'> es lograr cosas importantes" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">is getting important things done</a>
+<a data-bs-title="<img src='/spanish.jpg'> constantemente" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">consistently</a>.
+<a data-bs-title="<img src='/spanish.jpg'> Y" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">And</a>
+<a data-bs-title="<img src='/spanish.jpg'> sin importar" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">no matter</a>
+<a data-bs-title="<img src='/spanish.jpg'> en lo que estés trabajando" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">what you are working on</a>,
+<a data-bs-title="<img src='/spanish.jpg'> hay" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">there are</a>
+<a data-bs-title="<img src='/spanish.jpg'> solamente un par de cosas" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">only a few things</a>
+<a data-bs-title="<img src='/spanish.jpg'> que son verdaderamente importantes" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">that are truly important</a>.
 
 <br><br>
-
-{{< pops "Being productive" "<img src='images/spanish.jpg'><i>Ser productivo</i><br><br><i>INGLES = ESPAÑOL<br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "is about maintaining" "<img src='images/spanish.jpg'><i>significa mantener</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "a steady, average speed" "<img src='images/spanish.jpg'><i>una velocidad constante</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "on a few things," "<img src='images/spanish.jpg'><i>en un par de cosas</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "not maximum speed" "<img src='images/spanish.jpg'><i>no una máxima velocidad</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "on everything." "<img src='images/spanish.jpg'><i>en todo</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-
-<br><br>
-
-{{< pops "That's why" "<img src='images/spanish.jpg'><i>por eso</i><br><br><i>INGLES = ESPAÑOL<br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "this strategy" "<img src='images/spanish.jpg'><i>esta estrategia</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "is effective." "<img src='images/spanish.jpg'><i>es efectiva</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "If you do" "<img src='images/spanish.jpg'><i>si es que haces</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-the most important thing first each day,
-{{< pops "then" "<img src='images/spanish.jpg'><i>entonces</i><br>" >}}
-{{< pops "you'll always get something important done." "<img src='images/spanish.jpg'><i>siempre cumplirás algo importante</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "I don't know about you," "<img src='images/spanish.jpg'><i>no sé tú</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "but" "<img src='images/spanish.jpg'><i>pero</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "this is" "<img src='images/spanish.jpg'><i>esto es</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "a big deal" "<img src='images/spanish.jpg'><i>algo importante</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "for me." "<img src='images/spanish.jpg'><i>para mi</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "There are" "<img src='images/spanish.jpg'><i>hay</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "many days" "<img src='images/spanish.jpg'><i>muchos días</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "when" "<img src='images/spanish.jpg'><i>cuando</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "I waste hours" "<img src='images/spanish.jpg'><i>desperdicio horas</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "crossing off" "<img src='images/spanish.jpg'><i>descartando</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "the 4th, 5th, or 6th most important tasks" "<img src='images/spanish.jpg'><i>la cuarta, quinta, o sexta tarea más importante</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "on my to-do list" "<img src='images/spanish.jpg'><i>en mi lista de tareas</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "never get around to doing" "<img src='images/spanish.jpg'><i>nunca terminar de hacer</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "the most important thing." "<img src='images/spanish.jpg'><i>lo más importante</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
+<a data-bs-title="<img src='/spanish.jpg'> Ser productivo" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Being productive</a>
+<a data-bs-title="<img src='/spanish.jpg'> significa mantener" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">is about maintaining</a>
+<a data-bs-title="<img src='/spanish.jpg'> una velocidad constante" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">a steady, average speed</a>
+<a data-bs-title="<img src='/spanish.jpg'> en un par de cosas" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">on a few things</a>,
+<a data-bs-title="<img src='/spanish.jpg'> no una máxima velocidad" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">not maximum speed</a>
+<a data-bs-title="<img src='/spanish.jpg'> en todo" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">on everything</a>.
 
 <br><br>
-
-{{< pops "As you'll see" "<img src='images/spanish.jpg'><i>como verás</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "below," "<img src='images/spanish.jpg'><i>abajo</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "there is no reason you have to apply" "<img src='images/spanish.jpg'><i>no hay razón para tener que aplicar</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "this strategy" "<img src='images/spanish.jpg'><i>esta estrategia</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "in the morning," "<img src='images/spanish.jpg'><i>en la mañana</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}but
-{{< pops "I think" "<img src='images/spanish.jpg'><i>pienso que comenzar tu día</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "starting your day" "<img src='images/spanish.jpg'><i>pienso que comenzar tu día</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "with" "<img src='images/spanish.jpg'><i>con la tarea más importante</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "the most important task" "<img src='images/spanish.jpg'><i>con la tarea más importante</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "does offer" "<img src='images/spanish.jpg'><i>sí ofrece</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "some additional benefits" "<img src='images/spanish.jpg'><i>algunos beneficios adicionales</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "over other times." "<img src='images/spanish.jpg'><i>por sobre otras horas del día</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-
-<br><br>
-
-{{< pops "First," "<img src='images/spanish.jpg'><i>primero</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "willpower" "<img src='images/spanish.jpg'><i>fuerza de voluntad</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "tends to be" "<img src='images/spanish.jpg'><i>suele ser</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "higher" "<img src='images/spanish.jpg'><i>más alta</i><br><br>" >}}
-{{< pops "earlier" "<img src='images/spanish.jpg'><i>más temprano</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "in the day." "<img src='images/spanish.jpg'><i>en el día</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "That means" "<img src='images/spanish.jpg'><i>eso significa</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "you'll be able to" "<img src='images/spanish.jpg'><i>serás capaz de</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "provide your best" "<img src='images/spanish.jpg'><i>dar tu mejor</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "energy and effort to" "<img src='images/spanish.jpg'><i>energía y esfuerzo a</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "your most important task." "<img src='images/spanish.jpg'><i>tu tarea más importante</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
+<a data-bs-title="<img src='/spanish.jpg'> por eso" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">That's why</a>
+<a data-bs-title="<img src='/spanish.jpg'> esta estrategia es efectiva" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">this strategy is effective</a>.
+<a data-bs-title="<img src='/spanish.jpg'> si es que haces" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">If you do</a> the most important thing first each day,
+<a data-bs-title="<img src='/spanish.jpg'> entonces" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">then</a>
+<a data-bs-title="<img src='/spanish.jpg'> siempre cumplirás algo importante" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">you'll always get something important done</a>.
+<a data-bs-title="<img src='/spanish.jpg'> no sé tú" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">I don't know about you</a>,
+<a data-bs-title="<img src='/spanish.jpg'> pero" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">but</a>
+<a data-bs-title="<img src='/spanish.jpg'> esto es algo importante" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">this is a big deal</a>
+<a data-bs-title="<img src='/spanish.jpg'> para mi" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">for me</a>.
+<a data-bs-title="<img src='/spanish.jpg'> hay" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">There are</a>
+<a data-bs-title="<img src='/spanish.jpg'> muchos días" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">many days</a>
+<a data-bs-title="<img src='/spanish.jpg'> cuando" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">when</a>
+<a data-bs-title="<img src='/spanish.jpg'> desperdicio horas" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">I waste hours</a>
+<a data-bs-title="<img src='/spanish.jpg'> descartando" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">crossing off</a>
+<a data-bs-title="<img src='/spanish.jpg'> la cuarta, quinta, o sexta tarea más importante" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">the 4th, 5th, or 6th most important tasks</a>
+<a data-bs-title="<img src='/spanish.jpg'> en mi lista de tareas" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">on my to-do list</a> and
+<a data-bs-title="<img src='/spanish.jpg'> nunca terminar de hacer" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">never get around to doing</a>
+<a data-bs-title="<img src='/spanish.jpg'> lo más importante" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">the most important thing</a>.
 
 <br><br>
-
-{{< pops "Second," "<img src='images/spanish.jpg'><i>segundo</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "in my experience," "<img src='images/spanish.jpg'><i>en mi experiencia</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "the deeper I get into the day," "<img src='images/spanish.jpg'><i>mientras más profundo entro al día</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "the more likely it is that unexpected tasks" "<img src='images/spanish.jpg'><i>crece la probabilidad de que tareas inesperadas</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "will creep" "<img src='images/spanish.jpg'><i>se metan en mi agenda</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}}
-{{< pops "into my schedule" "<img src='images/spanish.jpg'><i>se metan en mi agenda</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}and
-{{< pops "the less likely it is" "<img src='images/spanish.jpg'><i>hay menos posibilidades de que pasaré mi tiempo</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "that I'll spend my time" "<img src='images/spanish.jpg'><i>hay menos posibilidades de que pasaré mi tiempo</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "as I had planned." "<img src='images/spanish.jpg'><i>como lo había planeado</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "Doing the most important thing" "<img src='images/spanish.jpg'><i>hacer lo más importante</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}first each day
-{{< pops "helps avoid that." "<img src='images/spanish.jpg'><i>ayuda a evitar eso</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-
-<br><br>
-
-{{< pops "Finally," "<img src='images/spanish.jpg'><i>finalmente</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "the human mind" "<img src='images/spanish.jpg'><i>la mente humana</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "seems to dislike" "<img src='images/spanish.jpg'><i>parece no gustar de</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "unfinished projects." "<img src='images/spanish.jpg'><i>proyectos no finalizados</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "They create" "<img src='images/spanish.jpg'><i>ellos crean</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "an unresolved tension" "<img src='images/spanish.jpg'><i>una tensión sin resolver</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}and
-{{< pops "internal stress." "<img src='images/spanish.jpg'><i>estrés interno</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}When
-{{< pops "we start something," "<img src='images/spanish.jpg'><i>empezamos algo</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "we want to finish it." "<img src='images/spanish.jpg'><i>queremos finalizarlo</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}.
-{{< pops "You are more likely to finish" "<img src='images/spanish.jpg'><i>tienes más posibilidades de finalizar</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "a task" "<img src='images/spanish.jpg'><i>una tarea</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "after starting it," "<img src='images/spanish.jpg'><i>después de comenzarla</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "so" "<img src='images/spanish.jpg'><i>así que</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "start the important tasks" "<img src='images/spanish.jpg'><i>comienza las tareas importantes</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "as soon as possible." "<img src='images/spanish.jpg'><i>lo más pronto posible</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}(
-{{< pops "Just" "<img src='images/spanish.jpg'><i>justamente</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "another reason why" "<img src='images/spanish.jpg'><i>otra razón</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "getting started is more important than succeeding." "<img src='images/spanish.jpg'><i>empezar es más importante que triunfar</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}})
+<a data-bs-title="<img src='/spanish.jpg'> como verás" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">As you'll see</a>
+<a data-bs-title="<img src='/spanish.jpg'> abajo" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">below</a>,
+<a data-bs-title="<img src='/spanish.jpg'> no hay razón para tener que aplicar" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">there is no reason you have to apply</a>
+<a data-bs-title="<img src='/spanish.jpg'> esta estrategia" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">this strategy</a>
+<a data-bs-title="<img src='/spanish.jpg'> en la mañana" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">in the morning</a>,
+<a data-bs-title="<img src='/spanish.jpg'> pienso que comenzar tu día" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">I think starting your day</a>
+<a data-bs-title="<img src='/spanish.jpg'> con" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">with</a>
+<a data-bs-title="<img src='/spanish.jpg'> la tarea más importante" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">the most important task</a>
+<a data-bs-title="<img src='/spanish.jpg'> sí ofrece" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">does offer</a>
+<a data-bs-title="<img src='/spanish.jpg'> algunos beneficios adicionales" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">some additional benefits</a>
+<a data-bs-title="<img src='/spanish.jpg'> por sobre otras horas del día" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">over other times</a>.
 
 
 <br><br>
-
-<h5>{{< pops "Why We Don't Do It" "<img src='images/spanish.jpg'><i>porqué no lo hacemos</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}</h5>
-
-
-{{< pops "Most people" "<img src='images/spanish.jpg'><i>la mayoría de la gente</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "spend most of their time" "<img src='images/spanish.jpg'><i>pasan la mayoría de su tiempo</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "responding to someone else's agenda" "<img src='images/spanish.jpg'><i>respondiendo a la agenda de alguien más</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "than their own." "<img src='images/spanish.jpg'><i>en vez de la suya</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-
-<br><br>
-
-{{< pops "I think" "<img src='images/spanish.jpg'><i>yo pienso</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "this is" "<img src='images/spanish.jpg'><i>esto es</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "partially" "<img src='images/spanish.jpg'><i>parcialmente</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "a result of how" "<img src='images/spanish.jpg'><i>el resultado de cómo</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "we are raised" "<img src='images/spanish.jpg'><i>somos criados</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "by society." "<img src='images/spanish.jpg'><i>por la sociedad</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "In school," "<img src='images/spanish.jpg'><i>en la escuela</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "we are given assignments and told" "<img src='images/spanish.jpg'><i>se nos asignan tareas y nos dicen</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "when to take our tests." "<img src='images/spanish.jpg'><i>cuando hacer nuestros exámenes</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "At work," "<img src='images/spanish.jpg'><i>en el trabajo</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "we are assigned due dates and given expectations" "<img src='images/spanish.jpg'><i>se nos asignan fechas límites y expectativas</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "from our superiors." "<img src='images/spanish.jpg'><i>de nuestros superiores</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "At home" "<img src='images/spanish.jpg'><i>en la casa</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "we have tasks" "<img src='images/spanish.jpg'><i>tenemos tareas</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}or
-{{< pops "chores to perform" "<img src='images/spanish.jpg'><i>deberes que cumplir</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "to care for our kids and our partners." "<img src='images/spanish.jpg'><i>cuidar de nuestros hijos y nuestras parejas</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "After" "<img src='images/spanish.jpg'><i>después</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "a few decades of this," "<img src='images/spanish.jpg'><i>un par de decadas de esto</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "it can become" "<img src='images/spanish.jpg'><i>puede volverse</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "very easy to spend your day" "<img src='images/spanish.jpg'><i>muy fácil de pasar tu día</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "reacting to the stimuli" "<img src='images/spanish.jpg'><i>reacionando al estímulo</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "that surround you." "<img src='images/spanish.jpg'><i>que te rodea</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "We learn to take action" "<img src='images/spanish.jpg'><i>aprendemos a accionar</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "as a reaction" "<img src='images/spanish.jpg'><i>como reacción</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "to the expectations, orders, or needs" "<img src='images/spanish.jpg'><i>a las expectativas, ordenes, o necesidades</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "of someone else." "<img src='images/spanish.jpg'><i>de alguien más</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
+<a data-bs-title="<img src='/spanish.jpg'> primero" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">First</a>,
+<a data-bs-title="<img src='/spanish.jpg'> fuerza de voluntad suele ser" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">willpower tends to be</a>
+<a data-bs-title="<img src='/spanish.jpg'> más alta" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">higher</a>
+<a data-bs-title="<img src='/spanish.jpg'> más temprano" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">earlier</a>
+<a data-bs-title="<img src='/spanish.jpg'> en el día" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">in the day</a>.
+<a data-bs-title="<img src='/spanish.jpg'> eso significa" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">That means</a>
+<a data-bs-title="<img src='/spanish.jpg'> serás capaz de dar" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">you'll be able to provide</a>
+<a data-bs-title="<img src='/spanish.jpg'> tu mejor energía y esfuerzo" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">your best energy and effort</a>
+<a data-bs-title="<img src='/spanish.jpg'> a tu tarea más importante" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">to your most important task</a>.
 
 <br><br>
-
-{{< pops "So naturally," "<img src='images/spanish.jpg'><i>por lo que naturalmente</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "when it comes time to start" "<img src='images/spanish.jpg'><i>cuando viene el momento de comenzar</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "our day," "<img src='images/spanish.jpg'><i>nuestro día</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "it doesn't seem strange" "<img src='images/spanish.jpg'><i>no parece extraño</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "to open" "<img src='images/spanish.jpg'><i>abrir</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "our email inbox," "<img src='images/spanish.jpg'><i>nuestra bandeja de entrada</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "check our phone," "<img src='images/spanish.jpg'><i>revisar nuestro teléfono</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}and
-{{< pops "look for our latest marching orders." "<img src='images/spanish.jpg'><i>buscar por lo siguien en la lista de trabajo</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-
-<br><br>
-
-{{< pops "I think" "<img src='images/spanish.jpg'><i>yo pienso</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "this is a mistake." "<img src='images/spanish.jpg'><i>esto es un error</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "The tasks assigned to us" "<img src='images/spanish.jpg'><i>las tareas que se nos asignan</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "by others" "<img src='images/spanish.jpg'><i>por otros</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "might seem urgent," "<img src='images/spanish.jpg'><i>puede ser urgente</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}but
-{{< pops "what is urgent is seldom important." "<img src='images/spanish.jpg'><i>lo que es urgente pocas veces es importante</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "The important tasks" "<img src='images/spanish.jpg'><i>las tareas importantes</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "in our lives" "<img src='images/spanish.jpg'><i>en nuestras vidas</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "are the ones that move" "<img src='images/spanish.jpg'><i>son las que mueven</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "our hopes," "<img src='images/spanish.jpg'><i>nuestros deseos</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "our dreams," "<img src='images/spanish.jpg'><i>nuestros sueños</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "our creations," "<img src='images/spanish.jpg'><i>nuestras creaciones</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}and
-{{< pops "our businesses" "<img src='images/spanish.jpg'><i>nuestros negocios</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "forward." "<img src='images/spanish.jpg'><i>hacia adelante</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
+<a data-bs-title="<img src='/spanish.jpg'> segundo" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Second</a>,
+<a data-bs-title="<img src='/spanish.jpg'> en mi experiencia" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">in my experience</a>,
+<a data-bs-title="<img src='/spanish.jpg'> mientras más profundo entro al día" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">the deeper I get into the day</a>,
+<a data-bs-title="<img src='/spanish.jpg'> crece la probabilidad" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">the more likely it is</a>
+<a data-bs-title="<img src='/spanish.jpg'> de que tareas inesperadas" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">that unexpected tasks</a>
+<a data-bs-title="<img src='/spanish.jpg'> se metan" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">will creep</a>
+<a data-bs-title="<img src='/spanish.jpg'> en mi agenda" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">into my schedule</a> and
+<a data-bs-title="<img src='/spanish.jpg'> hay menos posibilidades" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">the less likely it is</a>
+<a data-bs-title="<img src='/spanish.jpg'> de que pasaré mi tiempo" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">that I'll spend my time</a>
+<a data-bs-title="<img src='/spanish.jpg'> como lo había planeado" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">as I had planned</a>.
+<a data-bs-title="<img src='/spanish.jpg'> hacer lo más importante" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Doing the most important thing</a> first each day
+<a data-bs-title="<img src='/spanish.jpg'> ayuda a evitar eso" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">helps avoid that</a>.
 
 <br><br>
+<a data-bs-title="<img src='/spanish.jpg'> finalmente" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Finally</a>,
+<a data-bs-title="<img src='/spanish.jpg'> la mente humana" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">the human mind</a>
+<a data-bs-title="<img src='/spanish.jpg'> parece no gustar de" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">seems to dislike</a>
+<a data-bs-title="<img src='/spanish.jpg'> proyectos no finalizados" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">unfinished projects</a>.
+<a data-bs-title="<img src='/spanish.jpg'> ellos crean" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">They create</a>
+<a data-bs-title="<img src='/spanish.jpg'> una tensión sin resolver" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">an unresolved tension</a> and
+<a data-bs-title="<img src='/spanish.jpg'> estrés interno" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">internal stress</a>. When
+<a data-bs-title="<img src='/spanish.jpg'> empezamos algo" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">we start something</a>,
+<a data-bs-title="<img src='/spanish.jpg'> queremos finalizarlo" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">we want to finish it</a>.
+<a data-bs-title="<img src='/spanish.jpg'> tienes más posibilidades de finalizar" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">You are more likely to finish</a>
+<a data-bs-title="<img src='/spanish.jpg'> una tarea" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">a task</a>
+<a data-bs-title="<img src='/spanish.jpg'> después de comenzarla" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">after starting it</a>,
+<a data-bs-title="<img src='/spanish.jpg'> así que" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">so</a>
+<a data-bs-title="<img src='/spanish.jpg'> comienza las tareas importantes" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">start the important tasks</a>
+<a data-bs-title="<img src='/spanish.jpg'> lo más pronto posible" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">as soon as possible</a>.
+(<a data-bs-title="<img src='/spanish.jpg'> justamente" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Just</a>
+<a data-bs-title="<img src='/spanish.jpg'> otra razón" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">another reason why</a>
+<a data-bs-title="<img src='/spanish.jpg'> empezar es más importante que triunfar" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">getting started is more important than succeeding</a>.)
 
-{{< pops "Does that mean" "<img src='images/spanish.jpg'><i>eso significa</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "that we should ignore our responsibilities" "<img src='images/spanish.jpg'><i>que deberíamos ignorar nuestras responsabilidades</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "as parents" "<img src='images/spanish.jpg'><i>como padres</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "or employees" "<img src='images/spanish.jpg'><i>o empleados</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "or citizens?" "<img src='images/spanish.jpg'><i>o ciudadanos</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "Of course not." "<img src='images/spanish.jpg'><i>por supuesto que no</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}But
-{{< pops "we all need a time and space" "<img src='images/spanish.jpg'><i>todos necesitamos un tiempo y espacio</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "in our days" "<img src='images/spanish.jpg'><i>en el día</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "to respond to our own agenda," "<img src='images/spanish.jpg'><i>para responder nuestra propia agenda</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "not someone else's." "<img src='images/spanish.jpg'><i>no la de alguien más</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-
-<br><br>
-
-<h5>{{< pops "Not a Morning Person?" "<img src='images/spanish.jpg'><i>¿no eres una persona mañanera?</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}</h5>
-
-
-{{< pops "Does the word morning make you mourn?" "<img src='images/spanish.jpg'><i>la palabra mañana te hace doler</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "Does the morning sun remind you of" "<img src='images/spanish.jpg'><i>el sol de mañana te recuerda al</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "The Eye of Sauron?" "<img src='images/spanish.jpg'><i>ojo de Sauron</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "Can you think of" "<img src='images/spanish.jpg'><i>puedes pensar en</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "nothing worse than rays of golden sunshine" "<img src='images/spanish.jpg'><i>nada peor que los rayos del sol</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "streaming softly onto your pillow?" "<img src='images/spanish.jpg'><i>proyectandose suavemente en tu almohada</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
 
 <br><br>
+<h5><a data-bs-title="<img src='/spanish.jpg'> porqué no lo hacemos" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Why We Don't Do It</a></h5>
 
-{{< pops "No worries," "<img src='images/spanish.jpg'><i>no se preocupen</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "night owls." "<img src='images/spanish.jpg'><i>búhos nocturnos</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-
-<br><br>
-
-{{< pops "As I scanned" "<img src='images/spanish.jpg'><i>mientras investigaba</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "the daily habits" "<img src='images/spanish.jpg'><i>los habitos diarios</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "of hundreds of" "<img src='images/spanish.jpg'><i>de cientos de</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "authors," "<img src='images/spanish.jpg'><i>autores</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "artists," "<img src='images/spanish.jpg'><i>artistas</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}and
-{{< pops "musicians" "<img src='images/spanish.jpg'><i>músicos</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "in Daily Rituals" "<img src='images/spanish.jpg'><i>en rutinas diarias</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}(audiobook),
-{{< pops "I noticed" "<img src='images/spanish.jpg'><i>me dí cuenta de</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "an important trend:" "<img src='images/spanish.jpg'><i>una tencencia importante</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "There was no trend." "<img src='images/spanish.jpg'><i>no hay tendencia</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
+<a data-bs-title="<img src='/spanish.jpg'> la mayoría de la gente" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Most people</a>
+<a data-bs-title="<img src='/spanish.jpg'> pasan la mayoría de su tiempo" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">spend most of their time</a>
+<a data-bs-title="<img src='/spanish.jpg'> respondiendo a la agenda de alguien más" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">responding to someone else's agenda</a>
+<a data-bs-title="<img src='/spanish.jpg'> en vez de la suya" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">than their own</a>.
 
 <br><br>
-
-{{< pops "There is no one way to be successful." "<img src='images/spanish.jpg'><i>no hay una manera de ser éxitoso</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "There are" "<img src='images/spanish.jpg'><i>hay</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "just as many night owls" "<img src='images/spanish.jpg'><i>tantos búhos nocturnos</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "producing fabulous work" "<img src='images/spanish.jpg'><i>produciendo trabajos fabulosos</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "as there are early birds." "<img src='images/spanish.jpg'><i>como hay aves mañaneras</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}But
-{{< pops "no matter what their particular routine looked like," "<img src='images/spanish.jpg'><i>sin importar cómo luce su rutina particular</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "every productive artist" "<img src='images/spanish.jpg'><i>todo artista productivo</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "embraced the idea of protecting" "<img src='images/spanish.jpg'><i>asumió la idea de proteger</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "a sacred time" "<img src='images/spanish.jpg'><i>un momento sagrado</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}each day
-{{< pops "when they could work" "<img src='images/spanish.jpg'><i>cuando podían trabajar</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "on their own agenda." "<img src='images/spanish.jpg'><i>en su propia agenda</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
+<a data-bs-title="<img src='/spanish.jpg'> yo pienso" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">I think</a>
+<a data-bs-title="<img src='/spanish.jpg'> esto es" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">this is</a>
+<a data-bs-title="<img src='/spanish.jpg'> parcialmente" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">partially</a>
+<a data-bs-title="<img src='/spanish.jpg'> el resultado de cómo" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">a result of how</a>
+<a data-bs-title="<img src='/spanish.jpg'> somos criados" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">we are raised</a>
+<a data-bs-title="<img src='/spanish.jpg'> por la sociedad" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">by society</a>.
+<a data-bs-title="<img src='/spanish.jpg'> en la escuela" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">In school</a>,
+<a data-bs-title="<img src='/spanish.jpg'> se nos asignan tareas y nos dicen" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">we are given assignments and told</a>
+<a data-bs-title="<img src='/spanish.jpg'> cuando hacer nuestros exámenes" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">when to take our tests</a>.
+<a data-bs-title="<img src='/spanish.jpg'> en el trabajo" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">At work</a>,
+<a data-bs-title="<img src='/spanish.jpg'> se nos asignan fechas límites y expectativas" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">we are assigned due dates and given expectations</a>
+<a data-bs-title="<img src='/spanish.jpg'> de nuestros superiores" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">from our superiors</a>.
+<a data-bs-title="<img src='/spanish.jpg'> en casa" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">At home</a>,
+<a data-bs-title="<img src='/spanish.jpg'> tenemos tareas" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">we have tasks</a> or
+<a data-bs-title="<img src='/spanish.jpg'> deberes que cumplir" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">chores to perform</a>
+<a data-bs-title="<img src='/spanish.jpg'> cuidar de nuestros hijos y nuestras parejas" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">to care for our kids and our partners</a>.
+<a data-bs-title="<img src='/spanish.jpg'> después" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">After</a>
+<a data-bs-title="<img src='/spanish.jpg'> un par de decadas de esto" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">a few decades of this</a>,
+<a data-bs-title="<img src='/spanish.jpg'> puede volverse" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">it can become</a>
+<a data-bs-title="<img src='/spanish.jpg'> muy fácil pasar tu día" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">very easy to spend your day</a>
+<a data-bs-title="<img src='/spanish.jpg'> reacionando al estímulo" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">reacting to the stimuli</a>
+<a data-bs-title="<img src='/spanish.jpg'> que te rodea" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">that surround you</a>.
+<a data-bs-title="<img src='/spanish.jpg'> aprendemos a accionar" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">We learn to take action</a>
+<a data-bs-title="<img src='/spanish.jpg'> como reacción" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">as a reaction</a>
+<a data-bs-title="<img src='/spanish.jpg'> a las expectativas, ordenes, o necesidades" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">to the expectations, orders, or needs</a>
+<a data-bs-title="<img src='/spanish.jpg'> de alguien más" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">of someone else</a>.
 
 <br><br>
-
-{{< pops "I find" "<img src='images/spanish.jpg'><i>yo encuentro</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "morning to work best." "<img src='images/spanish.jpg'><i>la mañana funciona mejor</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "Your mileage" "<img src='images/spanish.jpg'><i>tu millaje</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "may vary." "<img src='images/spanish.jpg'><i>puede variar</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
+<a data-bs-title="<img src='/spanish.jpg'> por lo que naturalmente" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">So naturally</a>,
+<a data-bs-title="<img src='/spanish.jpg'> cuando viene el momento de comenzar" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">when it comes time to start</a>
+<a data-bs-title="<img src='/spanish.jpg'> nuestro día" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">our day</a>,
+<a data-bs-title="<img src='/spanish.jpg'> no parece extraño" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">it doesn't seem strange</a>
+<a data-bs-title="<img src='/spanish.jpg'> abrir nuestra bandeja de entrada " data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">to open our email inbox</a>,
+<a data-bs-title="<img src='/spanish.jpg'> revisar nuestro teléfono" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">check our phone</a>, and
+<a data-bs-title="<img src='/spanish.jpg'> buscar por lo siguien en la lista de trabajo" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">look for our latest marching orders</a>.
 
 <br><br>
+<a data-bs-title="<img src='/spanish.jpg'> yo pienso" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">I think</a>
+<a data-bs-title="<img src='/spanish.jpg'> esto es un error" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">this is a mistake</a>.
+<a data-bs-title="<img src='/spanish.jpg'> las tareas que se nos asignan" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">The tasks assigned to us</a>
+<a data-bs-title="<img src='/spanish.jpg'> por otros" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">by others</a>
+<a data-bs-title="<img src='/spanish.jpg'> puede parecer urgente" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">might seem urgent</a>, but
+<a data-bs-title="<img src='/spanish.jpg'> lo que es urgente pocas veces es importante" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">what is urgent is seldom important</a>.
+<a data-bs-title="<img src='/spanish.jpg'> las tareas importantes" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">The important tasks</a>
+<a data-bs-title="<img src='/spanish.jpg'> en nuestras vidas" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">in our lives</a>
+<a data-bs-title="<img src='/spanish.jpg'> son las que mueven" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">are the ones that move</a>
+<a data-bs-title="<img src='/spanish.jpg'> nuestros deseos" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">our hopes</a>,
+<a data-bs-title="<img src='/spanish.jpg'> nuestros sueños" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">our dreams</a>,
+<a data-bs-title="<img src='/spanish.jpg'> nuestras creaciones" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">our creations</a>, and
+<a data-bs-title="<img src='/spanish.jpg'> nuestros negocios" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">our businesses</a>
+<a data-bs-title="<img src='/spanish.jpg'> hacia adelante" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">forward</a>.
 
-{{< pops "The phrase" "<img src='images/spanish.jpg'><i>la frase</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}“Do the most important thing first each day” 
-{{< pops "is just a simple way" "<img src='images/spanish.jpg'><i>es solo una manera simple</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "of saying," "<img src='images/spanish.jpg'><i>de decir</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "Give yourself" "<img src='images/spanish.jpg'><i>date a ti mismo</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "a time and space" "<img src='images/spanish.jpg'><i>un tiempo y espacio</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "to work on what is important" "<img src='images/spanish.jpg'><i>para trabajar en lo que es más importante</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}
-{{< pops "to you" "<img src='images/spanish.jpg'><i>para ti</i><br><br><i>INGLES = ESPAÑOL<br>INGLES = ESPAÑOL<br><br></i><b>Study:</b><br>Verb to be (<i>is</i>)<br>simple past (<i>said</i>)" >}}each day."
+<br><br>
+<a data-bs-title="<img src='/spanish.jpg'> eso significa" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Does that mean</a>
+<a data-bs-title="<img src='/spanish.jpg'> que deberíamos ignorar" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">that we should ignore</a>
+<a data-bs-title="<img src='/spanish.jpg'> nuestras responsabilidades" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">our responsibilities</a>
+<a data-bs-title="<img src='/spanish.jpg'> como padres" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">as parents</a>
+<a data-bs-title="<img src='/spanish.jpg'> o empleados" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">or employees</a>
+<a data-bs-title="<img src='/spanish.jpg'> o ciudadanos" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">or citizens?</a>
+<a data-bs-title="<img src='/spanish.jpg'> por supuesto que no" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Of course not.</a> But
+<a data-bs-title="<img src='/spanish.jpg'> todos necesitamos un tiempo y espacio" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">we all need a time and space</a>
+<a data-bs-title="<img src='/spanish.jpg'> en el día" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">in our days</a>
+<a data-bs-title="<img src='/spanish.jpg'> para responder nuestra propia agenda" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">to respond to our own agenda</a>,
+<a data-bs-title="<img src='/spanish.jpg'> no la de alguien más" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">not someone else's</a>.
 
+
+<br><br>
+<h5><a data-bs-title="<img src='/spanish.jpg'> ¿no eres una persona mañanera?" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Not a Morning Person?</a></h5>
+
+<a data-bs-title="<img src='/spanish.jpg'> la palabra mañana te hace doler" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Does the word morning make you mourn?</a>
+<a data-bs-title="<img src='/spanish.jpg'> el sol de mañana te recuerda al" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Does the morning sun remind you of</a>
+<a data-bs-title="<img src='/spanish.jpg'> ojo de Sauron" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">The Eye of Sauron?</a>
+<a data-bs-title="<img src='/spanish.jpg'> puedes pensar en" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Can you think of</a>
+<a data-bs-title="<img src='/spanish.jpg'> nada peor que los rayos del sol" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">nothing worse than rays of golden sunshine</a>
+<a data-bs-title="<img src='/spanish.jpg'> proyectandose suavemente en tu almohada" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">streaming softly onto your pillow?</a>
+
+<br><br>
+<a data-bs-title="<img src='/spanish.jpg'> no se preocupen" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">No worries</a>,
+<a data-bs-title="<img src='/spanish.jpg'> búhos nocturnos" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">night owls</a>.
+
+<br><br>
+<a data-bs-title="<img src='/spanish.jpg'> mientras investigaba" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">As I scanned</a>
+<a data-bs-title="<img src='/spanish.jpg'> los habitos diarios" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">the daily habits</a>
+<a data-bs-title="<img src='/spanish.jpg'> de cientos de" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">of hundreds of</a>
+<a data-bs-title="<img src='/spanish.jpg'> autores" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">authors</a>,
+<a data-bs-title="<img src='/spanish.jpg'> artistas" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">artists</a>, and
+<a data-bs-title="<img src='/spanish.jpg'> músicos" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">musicians</a>
+<a data-bs-title="<img src='/spanish.jpg'> en rutinas diarias" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">in Daily Rituals</a> (audiobook),
+<a data-bs-title="<img src='/spanish.jpg'> me dí cuenta de" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">I noticed</a>
+<a data-bs-title="<img src='/spanish.jpg'> una tencencia importante" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">an important trend</a>:
+<a data-bs-title="<img src='/spanish.jpg'> no hay tendencia" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">There was no trend</a>.
+
+<br><br>
+<a data-bs-title="<img src='/spanish.jpg'> no hay una manera de ser éxitoso" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">There is no one way to be successful</a>.
+<a data-bs-title="<img src='/spanish.jpg'> hay" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">There are</a>
+<a data-bs-title="<img src='/spanish.jpg'> tantos búhos nocturnos" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">just as many night owls</a>
+<a data-bs-title="<img src='/spanish.jpg'> produciendo trabajos fabulosos" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">producing fabulous work</a> But
+<a data-bs-title="<img src='/spanish.jpg'> como hay aves mañaneras" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">as there are early birds</a>.
+<a data-bs-title="<img src='/spanish.jpg'> sin importar cómo luce su rutina particular" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">no matter what their particular routine looked like</a>,
+<a data-bs-title="<img src='/spanish.jpg'> todo artista productivo" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">every productive artist</a>
+<a data-bs-title="<img src='/spanish.jpg'> asumió la idea de proteger" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">embraced the idea of protecting</a> each day
+<a data-bs-title="<img src='/spanish.jpg'> un momento sagrado" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">a sacred time</a>
+<a data-bs-title="<img src='/spanish.jpg'> cuando podían trabajar" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">when they could work</a>
+<a data-bs-title="<img src='/spanish.jpg'> en su propia agenda" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">on their own agenda</a>.
+
+
+<br><br>
+<a data-bs-title="<img src='/spanish.jpg'> yo encuentro" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">I find</a>
+<a data-bs-title="<img src='/spanish.jpg'> la mañana funciona mejor" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">morning to work best</a>.
+<a data-bs-title="<img src='/spanish.jpg'> tu millaje" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Your mileage</a>
+<a data-bs-title="<img src='/spanish.jpg'> puede variar" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">may vary</a>.
+
+<br><br>
+<a data-bs-title="<img src='/spanish.jpg'> la frase" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">The phrase</a> “Do the most important thing first each day” 
+<a data-bs-title="<img src='/spanish.jpg'> es solo una manera simple" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">is just a simple way</a>
+<a data-bs-title="<img src='/spanish.jpg'> de decir" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">of saying</a>,
+"<a data-bs-title="<img src='/spanish.jpg'> date a ti mismo" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Give yourself</a>
+<a data-bs-title="<img src='/spanish.jpg'> un tiempo y espacio" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">a time and space</a>
+<a data-bs-title="<img src='/spanish.jpg'> para trabajar en lo que es más importante" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">to work on what is important</a>
+<a data-bs-title="<img src='/spanish.jpg'> para ti" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">to you</a> each day."
 
 {{< /reading >}}
+
