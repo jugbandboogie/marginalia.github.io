@@ -27,347 +27,347 @@ Some relevant concepts
 <h4>There are 20 quadrillion of Ants on Earth (by ABC Science)</h4>
 <br>
 
-The <a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">world's human population</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">is forecast to surpass</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">8 billion</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">in the coming months</a>.
+The <a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">world's human population</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">is forecast to surpass</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">8 billion</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">in the coming months</a>.
 But 
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">we've got nothing on ants</a>.
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">we've got nothing on ants</a>.
 
 <br><br>
 
-Researchers <a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">have made</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">the most thorough assessment</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">to date</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">of the global population of ants</a> — 
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">insects that have colonised</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">almost everywhere</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">on the planet</a> — and 
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">the estimated total</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">is a mind-blowing</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">20 quadrillion of them</a>, or 
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">approximately 2.5 million</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">for every human</a>.
+Researchers <a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">have made</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">the most thorough assessment</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">to date</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">of the global population of ants</a> — 
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">insects that have colonised</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">almost everywhere</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">on the planet</a> — and 
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">the estimated total</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">is a mind-blowing</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">20 quadrillion of them</a>, or 
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">approximately 2.5 million</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">for every human</a>.
 
 <br><br>
 
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">It should</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">come as little surprise</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">considering</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">how ubiquitous these busy and social insects are</a>.
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">It should</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">come as little surprise</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">considering</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">how ubiquitous these busy and social insects are</a>.
 
 <br><br>
 
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">They have thrived</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">since the age of dinosaurs</a>,
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">with the oldest-known ant fossil</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">dating back about</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">100 million years </a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">to the Cretaceous Period</a>.
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">They have thrived</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">since the age of dinosaurs</a>,
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">with the oldest-known ant fossil</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">dating back about</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">100 million years </a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">to the Cretaceous Period</a>.
 
 <br><br>
 
-"Ants <a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">certainly</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">play a very central role</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">in almost every terrestrial ecosystem</a>," 
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">said entomologist</a> Patrick Schultheiss 
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">of Germany's University of Würzburg</a> and the University of Hong Kong,
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">co-lead author</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">of the study</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">published in the journal</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Proceedings of the National Academy of Sciences</a>.
+"Ants <a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">certainly</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">play a very central role</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">in almost every terrestrial ecosystem</a>," 
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">said entomologist</a> Patrick Schultheiss 
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">of Germany's University of Würzburg</a> and the University of Hong Kong,
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">co-lead author</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">of the study</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">published in the journal</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Proceedings of the National Academy of Sciences</a>.
 
 <br><br>
 
-"<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">They are very important</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">for nutrient cycling</a>,
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">decomposition processes</a>,
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">plant seed dispersal</a> and the 
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">perturbation of soil</a>.
+"<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">They are very important</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">for nutrient cycling</a>,
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">decomposition processes</a>,
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">plant seed dispersal</a> and the 
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">perturbation of soil</a>.
 
 <br><br>
 
-"<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Ants are also</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">an extremely diverse group</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">of insects</a>,
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">with the different species fulfilling</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">a wide range of functions</a>.
+"<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Ants are also</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">an extremely diverse group</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">of insects</a>,
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">with the different species fulfilling</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">a wide range of functions</a>.
 
 <br><br>
 
-"But <a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">most of all</a>,
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">it is their high abundance</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">that makes them</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">key ecological players</a>."
-
-<br><br>
-
-
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">There are</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">more than 12,000</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">known species</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">of ants</a>,
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">which generally are</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">black</a>,
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">brown</a> or 
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">red</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">in colour</a> and 
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">possess bodies</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">segmented into three parts</a>.
+"But <a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">most of all</a>,
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">it is their high abundance</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">that makes them</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">key ecological players</a>."
 
 <br><br>
 
 
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Ranging in size</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">from about</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">1 millimetre to 3 centimetres</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">long</a>,
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">ants typically inhabit</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">soil</a>,
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">leaf litter</a> or
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">decaying plants</a> — and
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">occasionally our kitchens</a>.
-
-<br><br>
-
-Ants, <a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">whose closest relatives</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">are bees and wasps</a>,
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">are native to nearly everywhere</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">on Earth</a>,
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">as any picnicker knows</a>,
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">except</a> Antarctica, Greenland, Iceland and 
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">some island nations</a>.
-
-<br><br>
-
-"<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">I was amazed</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">that the ants' biomass</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">was higher than</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">that of wild mammals and birds combined</a>, and
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">that it reaches</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">20 per cent</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">of the human biomass</a>,"
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">said insect ecologist</a> and 
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">study co-lead author</a> Sabine Nooten, 
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">also of</a> University of Würzburg and University of Hong Kong.
-
-<br><br>
-
-"<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">That gives you</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">an understanding of</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">the scale</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">of their impact</a>.
-
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">There are</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">more than 12,000</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">known species</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">of ants</a>,
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">which generally are</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">black</a>,
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">brown</a> or 
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">red</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">in colour</a> and 
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">possess bodies</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">segmented into three parts</a>.
 
 <br><br>
 
 
-"<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">I find</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">the enormous diversity</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">of</a> ants
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">fascinating</a>.
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Ranging in size</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">from about</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">1 millimetre to 3 centimetres</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">long</a>,
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">ants typically inhabit</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">soil</a>,
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">leaf litter</a> or
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">decaying plants</a> — and
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">occasionally our kitchens</a>.
 
 <br><br>
 
-"<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">They can be tiny</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">or huge</a> and
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">show</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">the most bizarre adaptations</a>,"
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">she added</a>,
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">citing a widespread</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">ant genus</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">called Strumigenys</a>,
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">known for</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">long mouth parts</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">with</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">spikes used to hunt</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">small invertebrates</a>.
+Ants, <a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">whose closest relatives</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">are bees and wasps</a>,
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">are native to nearly everywhere</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">on Earth</a>,
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">as any picnicker knows</a>,
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">except</a> Antarctica, Greenland, Iceland and 
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">some island nations</a>.
 
 <br><br>
 
-The researchers <a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">based their analysis on</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">489 studies</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">of ant populations</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">spanning every continent</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">where ants live</a>.
+"<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">I was amazed</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">that the ants' biomass</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">was higher than</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">that of wild mammals and birds combined</a>, and
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">that it reaches</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">20 per cent</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">of the human biomass</a>,"
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">said insect ecologist</a> and 
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">study co-lead author</a> Sabine Nooten, 
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">also of</a> University of Würzburg and University of Hong Kong.
 
 <br><br>
 
-"<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Our dataset represents</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">a massive collecting effort</a> of
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">thousands of scientists</a>," Dr Schultheiss
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">said</a>.
+"<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">That gives you</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">an understanding of</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">the scale</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">of their impact</a>.
+
 
 <br><br>
 
-"<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">We were then able to extrapolate</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">the number of ants</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">for different regions of the world</a> and 
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">estimate</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">their total global number</a> and
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">biomass</a>."
+
+"<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">I find</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">the enormous diversity</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">of</a> ants
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">fascinating</a>.
+
+<br><br>
+
+"<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">They can be tiny</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">or huge</a> and
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">show</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">the most bizarre adaptations</a>,"
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">she added</a>,
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">citing a widespread</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">ant genus</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">called Strumigenys</a>,
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">known for</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">long mouth parts</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">with</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">spikes used to hunt</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">small invertebrates</a>.
+
+<br><br>
+
+The researchers <a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">based their analysis on</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">489 studies</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">of ant populations</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">spanning every continent</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">where ants live</a>.
+
+<br><br>
+
+"<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Our dataset represents</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">a massive collecting effort</a> of
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">thousands of scientists</a>," Dr Schultheiss
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">said</a>.
+
+<br><br>
+
+"<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">We were then able to extrapolate</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">the number of ants</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">for different regions of the world</a> and 
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">estimate</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">their total global number</a> and
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">biomass</a>."
 
 <br><br>
 
 <h5>
-'<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Most ants</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">are actually</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">highly beneficial</a>'
+'<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Most ants</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">are actually</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">highly beneficial</a>'
 </h5>
 
 
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Tropical regions</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">were found to harbour</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">many more ants</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">than other regions</a>, with 
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">forests and drylands</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">boasting more ants</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">than urban areas</a>.
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Tropical regions</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">were found to harbour</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">many more ants</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">than other regions</a>, with 
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">forests and drylands</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">boasting more ants</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">than urban areas</a>.
 
 <br><br>
 
 
-"<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">There are</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">certain parts of the world</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">where we have little data</a> and 
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">we cannot reach</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">reliable estimates</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">for all continents</a>. Africa 
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">is one such example</a>.
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">We have long known</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">that it is</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">a very ant-rich continent</a>, but 
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">also very under-studied</a>," Dr Schultheiss said.
+"<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">There are</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">certain parts of the world</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">where we have little data</a> and 
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">we cannot reach</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">reliable estimates</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">for all continents</a>. Africa 
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">is one such example</a>.
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">We have long known</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">that it is</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">a very ant-rich continent</a>, but 
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">also very under-studied</a>," Dr Schultheiss said.
 
 <br><br>
 
-Ants <a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">generally live</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">in colonies</a>,
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">sometimes</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">consisting of millions of them</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">divided into groups</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">with different roles</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">such as</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">workers</a>,
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">soldiers</a>, and
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">queens</a>.
+Ants <a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">generally live</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">in colonies</a>,
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">sometimes</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">consisting of millions of them</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">divided into groups</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">with different roles</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">such as</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">workers</a>,
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">soldiers</a>, and
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">queens</a>.
 
 <br><br>
 
-The workers, <a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">all females</a>,
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">care for</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">the bigger queen</a> and 
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">her offspring</a>,
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">maintain the nest</a>, and
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">forage for food</a>.
-
-
-<br><br>
-
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Males</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">mate with</a> queens, 
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">then die</a>.
-
-<br><br>
-
-"<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Some ants</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">can certainly be</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">very annoying</a>, but
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">that's</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">a very human-centered perspective</a>," Dr Schultheiss said.
-
-<br><br>
-
-"<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Most ants</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">are actually highly beneficial</a>,
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">even to us humans</a>.
-
-<br><br>
-
-"<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Think about</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">the amount of organic matter</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">that 20 quadrillion ants</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">transport</a>,
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">remove</a>,
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">recycle</a> and 
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">eat</a>.
-
-<br><br>
-
-"<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">In fact</a>, ants are
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">so essential</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">for the smooth working</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">of biological processes</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">that they can be seen</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">as ecosystem engineers</a>.
+The workers, <a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">all females</a>,
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">care for</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">the bigger queen</a> and 
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">her offspring</a>,
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">maintain the nest</a>, and
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">forage for food</a>.
 
 
 <br><br>
 
-"<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">The late</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">ant scientist</a> EO Wilson 
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">once called them</a> 
-'<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">the little things</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">that run the world</a>.'"
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Males</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">mate with</a> queens, 
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">then die</a>.
 
 <br><br>
 
-Dr Chris Burwell, <a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">a senior curator</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">of insects</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">from</a> Queensland Museum, 
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">said the study emphasised</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">the integral role</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">ants play in our ecosystems</a>.
+"<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Some ants</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">can certainly be</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">very annoying</a>, but
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">that's</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">a very human-centered perspective</a>," Dr Schultheiss said.
+
+<br><br>
+
+"<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Most ants</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">are actually highly beneficial</a>,
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">even to us humans</a>.
+
+<br><br>
+
+"<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Think about</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">the amount of organic matter</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">that 20 quadrillion ants</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">transport</a>,
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">remove</a>,
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">recycle</a> and 
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">eat</a>.
+
+<br><br>
+
+"<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">In fact</a>, ants are
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">so essential</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">for the smooth working</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">of biological processes</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">that they can be seen</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">as ecosystem engineers</a>.
 
 
 <br><br>
 
-"<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Having that estimate</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">of the numbers</a>;
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">I know</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">ants are important</a>, but
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">they are really important</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">given the sheer number</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">of them</a>," said Dr Burwell, 
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">who was not involved</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">with the study</a>.
+"<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">The late</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">ant scientist</a> EO Wilson 
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">once called them</a> 
+'<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">the little things</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">that run the world</a>.'"
+
+<br><br>
+
+Dr Chris Burwell, <a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">a senior curator</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">of insects</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">from</a> Queensland Museum, 
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">said the study emphasised</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">the integral role</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">ants play in our ecosystems</a>.
 
 
 <br><br>
 
-"<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">It’s not each ant</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">as the individual</a>,
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">but the colony</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">we regard as the individual</a>.
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Colonies are the equivalent</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">of an animal</a> or 
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">a mammal</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">in the ecosystem</a>.
+"<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Having that estimate</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">of the numbers</a>;
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">I know</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">ants are important</a>, but
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">they are really important</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">given the sheer number</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">of them</a>," said Dr Burwell, 
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">who was not involved</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">with the study</a>.
+
 
 <br><br>
 
-"<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">There have been</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">studies done</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">where they estimate</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">the ants walking around</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">on the surface</a>, and
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">it's a fraction</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">of the ants</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">living in the colony</a> — 
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">so you’re seeing</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">a small amount</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">of the ants</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">that are out there</a>.
+"<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">It’s not each ant</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">as the individual</a>,
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">but the colony</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">we regard as the individual</a>.
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Colonies are the equivalent</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">of an animal</a> or 
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">a mammal</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">in the ecosystem</a>.
 
 <br><br>
 
-"<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">That estimation</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">compared to humans</a>,
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">it tells you there’s</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">a lot of ants</a>, but 
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">also shows you</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">there are</a>
-<a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">a lot of humans</a>."
+"<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">There have been</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">studies done</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">where they estimate</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">the ants walking around</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">on the surface</a>, and
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">it's a fraction</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">of the ants</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">living in the colony</a> — 
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">so you’re seeing</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">a small amount</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">of the ants</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">that are out there</a>.
+
+<br><br>
+
+"<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">That estimation</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">compared to humans</a>,
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">it tells you there’s</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">a lot of ants</a>, but 
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">also shows you</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">there are</a>
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">a lot of humans</a>."
 
 
 {{< /reading >}}
