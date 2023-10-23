@@ -27,7 +27,7 @@ Some relevant concepts
 <h4>There are 20 quadrillion of Ants on Earth (by ABC Science)</h4>
 <br>
 
-The <a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="<img src='/tame-impala.jpg'>" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">world's human population</a>
+The <a data-bs-title="<img src='/images/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">world's human population</a>
 <a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">is forecast to surpass</a>
 <a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">8 billion</a>
 <a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">in the coming months</a>.

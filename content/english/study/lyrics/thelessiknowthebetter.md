@@ -27,7 +27,7 @@ Some relevant concepts
 
 {{< lyrics >}}
 
-<a data-bs-title="<img src='/spanish.jpg'> Coro" data-bs-content="<img src='/productivity.jpg'> ENGLISH " tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">(Verse 1)</a>
+<a data-bs-title="<img src='/images/spanish.jpg'> Coro" data-bs-content="ENGLISH" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">(Verse 1)</a>
 
 <br>
 <a data-bs-title="<img src='/spanish.jpg'> alguien dijo" data-bs-content="<i>someone = alguien<br>said = dijo<br><br></i><b>Study:</b><br>indefinite pronouns (<i>someone</i>)<br>simple past (<i>said</i>)" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Someone said</a>
