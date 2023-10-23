@@ -32,13 +32,13 @@ Some relevant concepts
 
 (Intro)
 <br>
-<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="Uno <img src='/mordor.jpg'>" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">One</a>, one, one, one, one
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="Uno <img src='static/mordor.jpg'>" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">One</a>, one, one, one, one
 
 <br><br>
 
 (Verse 1)
 <br>
-<a data-bs-title="<img src='/spanish.jpg'> Hablando en mis sueños" data-bs-content="Uno <img src='/mordor.png'>" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Talkin' in my sleep</a>
+<a data-bs-title="<img src='/spanish.jpg'> Hablando en mis sueños" data-bs-content="Uno <img src='/images/dua-lipa.jpg'>" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Talkin' in my sleep</a>
 <a data-bs-title="<img src='/spanish.jpg'> de noche" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">at night</a>,
 <a data-bs-title="<img src='/spanish.jpg'> volviéndome loca" data-bs-content="CONTENT" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">makin' myself crazy</a>
 <br>
