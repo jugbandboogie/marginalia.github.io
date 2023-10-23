@@ -24,8 +24,6 @@ The song, which *describes the pain of a man feeling left out in a love triangle
 
 Some relevant concepts
 
-:flag_spain:
-
 <hr>
 
 ## Study the Lyrics
@@ -34,7 +32,7 @@ Some relevant concepts
 
 (Intro)
 <br>
-<a data-bs-title=":flag_spain: SPANISH" data-bs-content="Uno <img src='https://gentle-pastelito-7271fe.netlify.app/images/spanish.jpg'>" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">One</a>, one, one, one, one
+<a data-bs-title=":es: SPANISH" data-bs-content="Uno <img src='https://gentle-pastelito-7271fe.netlify.app/images/spanish.jpg'>" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">One</a>, one, one, one, one
 
 <br><br>
 
