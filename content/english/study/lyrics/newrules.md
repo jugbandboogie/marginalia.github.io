@@ -32,7 +32,7 @@ Some relevant concepts
 
 (Intro)
 <br>
-<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="Uno" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">One</a>, one, one, one, one
+<a data-bs-title="<img src='/spanish.jpg'> SPANISH" data-bs-content="Uno <img src='/dua-lipa.jpg'>" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">One</a>, one, one, one, one
 
 <br><br>
 
