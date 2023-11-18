@@ -1,8 +1,8 @@
 ---
 title: "There are 20 quadrillion of Ants on Earth (by ABC Science)"
-meta_title: ""
+meta_title: "This article by ABC Science reports the findings of two Universities on the amount of ants on Earth."
 description: "This article by ABC Science reports the findings of two Universities on the amount of ants on Earth."
-image: "/images/ants.jpg"
+image: "/images/ants.png"
 Study: ["Articles"]
 tags: "STEM"
 URL: "/ants/"
@@ -13,6 +13,9 @@ draft: false
 ## Context
 
 {{< param description >}}
+
+Study English with this Science Article by ABC Science:
+"There are 20 quadrillion of Ants on Earth"
 
 <hr>
 

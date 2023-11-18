@@ -2,7 +2,7 @@
 title: "The Only Productivity Tip You’ll Ever Need"
 meta_title: ""
 description: "This article by writer James Clear explains how to be productive."
-image: "/images/productivity.jpg"
+image: "/images/productivity.png"
 Study: ["Articles"]
 tags: "self-help"
 URL: "/productivity-tip/"
