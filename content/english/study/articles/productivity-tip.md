@@ -1,6 +1,6 @@
 ---
 title: "The Only Productivity Tip You’ll Ever Need"
-meta_title: ""
+meta_title: "This article by writer James Clear explains how to be productive."
 description: "This article by writer James Clear explains how to be productive."
 image: "/images/productivity.png"
 Study: ["Articles"]
