@@ -11,12 +11,57 @@ draft: false
 
 ### Intro 
 
-Some introductory paragraph 
+Text
 
 <hr>
 
-## The Grammar
+## Understanding
 
-What the heck is the simple present. 
+text
 
 <hr>
+
+## Practical Tips
+
+**1. text**
+
+text
+
+**2. text**
+
+text
+
+**3. text**
+
+text
+
+**4. text**
+
+text
+
+<hr>
+
+## Benefits
+
+**1. text**
+
+text
+
+**2. text**
+
+text
+
+**3. text**
+
+text
+
+**4. text**
+
+text
+
+<hr>
+
+## Conclusion
+
+text
+
