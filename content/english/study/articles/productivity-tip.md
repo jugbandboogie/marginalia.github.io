@@ -11,7 +11,7 @@ draft: false
 
 <hr>
 
-## Context
+### Context
 
 {{< param description >}}
 
@@ -19,14 +19,14 @@ draft: false
 
 “Do the most important thing first each day” 
 
-## Vocabulary
+### Vocabulary
 
 Some relevant concepts
 
 <hr>
 
 
-## Study this article
+### Study this article
 
 *You can read the original text [here](https://jamesclear.com/productivity-tip).*
 
@@ -349,3 +349,111 @@ Productivity
 
 {{< /reading >}}
 
+<hr>
+
+### Quiz
+
+{{< quiz >}}
+
+---
+primary_color: purple
+secondary_color: lightgray
+text_color: black
+shuffle_questions: false
+---
+
+## How many rules does the singer list?
+
+---
+shuffle_answers: false
+---
+
+> Cuántas reglas enlista la cantante?
+
+1. [ ] 1
+1. [x] 3
+    > this is the correct answer.
+1. [ ] 5
+1. [ ] 6
+
+## What is the main purpose of the "new rules"?
+
+---
+shuffle_answers: false
+---
+
+> What is the main purpose of the "new rules"?
+
+1. [ ] 1
+1. [x] 3
+1. [ ] 5
+1. [ ] 6
+
+## Which of the following is NOT a rule mentioned in the song?
+
+---
+shuffle_answers: false
+---
+
+> Which of the following is NOT a rule mentioned in the song?
+
+- [ ] 1
+- [x] 3
+- [ ] 5
+- [ ] 6
+
+## The word “pick up” in the pre-chorus is closest in meaning to
+
+---
+shuffle_answers: true
+---
+
+> The word “pick up” in the pre-chorus is closest in meaning to
+
+- [ ] 1
+- [x] 3
+- [ ] 5
+- [ ] 6
+
+## Why does the author mention that she can't be his friend in the pre-chorus?
+
+---
+shuffle_answers: true
+---
+
+> Why does the author mention that she can't be his friend in the pre-chorus?
+
+- [ ] 1
+- [x] 3
+- [ ] 5
+- [ ] 6
+
+## What can be inferred from the Bridge in the song about the singer's new lifestyle?
+
+---
+shuffle_answers: true
+---
+
+> What can be inferred from the Bridge in the song about the singer's new lifestyle?
+
+- [ ] 1
+- [x] 3
+- [ ] 5
+- [ ] 6
+
+## What does the author imply by saying “Don't let him in. You'll have to kick him out again"”?
+
+---
+shuffle_answers: true
+---
+
+> What does the author imply by saying “Don't let him in. You'll have to kick him out again"”?
+
+- [ ] 1
+- [x] 3
+- [ ] 5
+- [ ] 6
+
+{{< /quiz >}}
+
+<hr>

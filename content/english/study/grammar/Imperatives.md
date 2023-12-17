@@ -2,7 +2,7 @@
 title: "Study Imperatives"
 meta_title: "Orders, recipes and suggestions"
 description: "Orders, recipes and suggestions"
-image: "/img/simple-present.jpg"
+image: "/images/simple-present.jpg"
 summary: The simple present is one of the three tenses in English.
 study: ["Grammar"]
 URL: "/imperatives/"

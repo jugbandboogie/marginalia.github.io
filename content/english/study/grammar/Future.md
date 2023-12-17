@@ -1,8 +1,8 @@
 ---
 title: "Study The Future"
-meta_title: "Is it really so simple?"
-description: "Study English with SONG (by ARTIST)"
-image: "/img/simple-present.jpg"
+meta_title: "We WILL learn about the Future"
+description: "We WILL learn about the Future"
+image: "/images/simple-present.jpg"
 summary: The simple present is one of the three tenses in English.
 study: ["Grammar"]
 URL: "/future-tense/"

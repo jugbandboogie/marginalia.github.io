@@ -2,7 +2,7 @@
 title: "Study Demonstratives"
 meta_title: "This, that, those, this"
 description: "This, that, those, this"
-image: "/img/simple-present.jpg"
+image: "/images/simple-present.jpg"
 summary: The simple present is one of the three tenses in English.
 study: ["Grammar"]
 URL: "/demonstratives/"

@@ -1,8 +1,8 @@
 ---
 title: "Study Past Participle"
-meta_title: "Is it really so simple?"
-description: "Study English with SONG (by ARTIST)"
-image: "/img/simple-present.jpg"
+meta_title: "go went GONE"
+description: "go went GONE"
+image: "/images/simple-present.jpg"
 summary: The simple present is one of the three tenses in English.
 study: ["Grammar"]
 URL: "/past-participles/"

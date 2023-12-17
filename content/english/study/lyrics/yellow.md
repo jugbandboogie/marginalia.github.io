@@ -8,29 +8,28 @@ tags: "British"
 URL: "/coldplay-yellow/"
 draft: false
 ---
-<hr>
-
-## Context
-
-Music has a magical way of making learning fun and memorable, and one song that's perfect for improving your English skills is "Yellow" by the famous band Coldplay. 
-
-Coldplay is a British rock band that's been making incredible music since 1996, and their song "Yellow" is a timeless classic.
-
-Released as the second single from their debut album, "Parachutes," in the year 2000, "Yellow" has become an anthem of emotional depth and ethereal beauty. Coldplay, formed in 1996, is renowned for its soul-stirring melodies and profound lyrics.
-
-The song, which *describes the pain of a man feeling left out in a love triangle*, appears on the solo-band's critically aclaimed album *Currents* (2015).
 
 <hr>
 
-## Vocabulary
+### Context
 
-Some relevant concepts
+- "Yellow" is one of Coldplay's most popular songs. Released as the second single from their debut album *Parachutes* (2000), quickly became a global sensation and solidified Coldplay's place in the music industry. 
 
-## Grammar
+- The song explores themes of love and devotion, narrating their attributes and everything the narrator has done for them. Its evocative lyrics and melodic composition make it a timeless piece of music that has resonated with audiences worldwide.
 
-Verb to be in the past
+- The band, formed in London in 1996, consists of Chris Martin, Jonny Buckland, Guy Berryman, and Will Champion. It is renowned for its uplifting melodies and profound lyrics. 
 
 <hr>
+
+### Notice
+
+- Yellow
+
+    The narrator uses this adjective in a metaphorical way to describe 
+
+<hr>
+
+### Study the Lyrics
 
 {{< lyrics >}}
 
@@ -211,5 +210,109 @@ And <a data-bs-title=":es: todas las cosas" data-bs-content="<b>Study:</b><br><a
 
 <hr>
 
+### Quiz
 
-## Quiz
+{{< quiz >}}
+
+---
+primary_color: purple
+secondary_color: lightgray
+text_color: black
+shuffle_questions: false
+---
+
+## How many rules does the singer list?
+
+---
+shuffle_answers: false
+---
+
+> Cuántas reglas enlista la cantante?
+
+1. [ ] 1
+1. [x] 3
+    > this is the correct answer.
+1. [ ] 5
+1. [ ] 6
+
+## What is the main purpose of the "new rules"?
+
+---
+shuffle_answers: false
+---
+
+> What is the main purpose of the "new rules"?
+
+1. [ ] 1
+1. [x] 3
+1. [ ] 5
+1. [ ] 6
+
+## Which of the following is NOT a rule mentioned in the song?
+
+---
+shuffle_answers: false
+---
+
+> Which of the following is NOT a rule mentioned in the song?
+
+- [ ] 1
+- [x] 3
+- [ ] 5
+- [ ] 6
+
+## The word “pick up” in the pre-chorus is closest in meaning to
+
+---
+shuffle_answers: true
+---
+
+> The word “pick up” in the pre-chorus is closest in meaning to
+
+- [ ] 1
+- [x] 3
+- [ ] 5
+- [ ] 6
+
+## Why does the author mention that she can't be his friend in the pre-chorus?
+
+---
+shuffle_answers: true
+---
+
+> Why does the author mention that she can't be his friend in the pre-chorus?
+
+- [ ] 1
+- [x] 3
+- [ ] 5
+- [ ] 6
+
+## What can be inferred from the Bridge in the song about the singer's new lifestyle?
+
+---
+shuffle_answers: true
+---
+
+> What can be inferred from the Bridge in the song about the singer's new lifestyle?
+
+- [ ] 1
+- [x] 3
+- [ ] 5
+- [ ] 6
+
+## What does the author imply by saying “Don't let him in. You'll have to kick him out again"”?
+
+---
+shuffle_answers: true
+---
+
+> What does the author imply by saying “Don't let him in. You'll have to kick him out again"”?
+
+- [ ] 1
+- [x] 3
+- [ ] 5
+- [ ] 6
+
+{{< /quiz >}}
+
+<hr>

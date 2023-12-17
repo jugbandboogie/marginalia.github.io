@@ -1,8 +1,8 @@
 ---
 title: "Study Modal Verbs"
-meta_title: "Is it really so simple?"
-description: "Is it really so simple?"
-image: "/img/simple-present.jpg"
+meta_title: "Verbs that are not really verbs"
+description: "Verbs that are not really verbs"
+image: "/images/simple-present.jpg"
 summary: The simple present is one of the three tenses in English.
 study: ["Grammar"]
 URL: "/modal-verbs/"

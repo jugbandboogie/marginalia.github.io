@@ -8,19 +8,26 @@ tags: "Canadian"
 URL: "/save-your-tears/"
 draft: false
 ---
-<hr>
-
-## Context
-
-The song, which *describes the pain of a man feeling left out in a love triangle*, appears on the solo-band's critically aclaimed album *Currents* (2015).
 
 <hr>
 
-## Vocabulary
+### Context
 
-Some relevant concepts
+"Save Your Tears" is a track by The Weeknd, featured on his fourth studio album, "After Hours," which was released on March 20, 2020.
+
+The song delves into themes of heartbreak and the aftermath of a failed relationship. It reflects on the emotional toll of unrequited love and the desire for a former partner to recognize the pain they caused.
+
+The Weeknd, born Abel Makkonen Tesfaye on February 16, 1990, is a Canadian singer, songwriter, and record producer. Renowned for his unique blend of R&B and pop, The Weeknd has achieved widespread success, winning multiple awards and earning critical acclaim for his distinct musical style.
 
 <hr>
+
+### Notice
+
+- Verb to be
+
+<hr>
+
+### Study the Lyrics
 
 {{< lyrics >}}
 
@@ -184,5 +191,109 @@ Pre-Chorus
 
 <hr>
 
+### Quiz
 
-## Quiz
+{{< quiz >}}
+
+---
+primary_color: purple
+secondary_color: lightgray
+text_color: black
+shuffle_questions: false
+---
+
+## How many rules does the singer list?
+
+---
+shuffle_answers: false
+---
+
+> Cuántas reglas enlista la cantante?
+
+1. [ ] 1
+1. [x] 3
+    > this is the correct answer.
+1. [ ] 5
+1. [ ] 6
+
+## What is the main purpose of the "new rules"?
+
+---
+shuffle_answers: false
+---
+
+> What is the main purpose of the "new rules"?
+
+1. [ ] 1
+1. [x] 3
+1. [ ] 5
+1. [ ] 6
+
+## Which of the following is NOT a rule mentioned in the song?
+
+---
+shuffle_answers: false
+---
+
+> Which of the following is NOT a rule mentioned in the song?
+
+- [ ] 1
+- [x] 3
+- [ ] 5
+- [ ] 6
+
+## The word “pick up” in the pre-chorus is closest in meaning to
+
+---
+shuffle_answers: true
+---
+
+> The word “pick up” in the pre-chorus is closest in meaning to
+
+- [ ] 1
+- [x] 3
+- [ ] 5
+- [ ] 6
+
+## Why does the author mention that she can't be his friend in the pre-chorus?
+
+---
+shuffle_answers: true
+---
+
+> Why does the author mention that she can't be his friend in the pre-chorus?
+
+- [ ] 1
+- [x] 3
+- [ ] 5
+- [ ] 6
+
+## What can be inferred from the Bridge in the song about the singer's new lifestyle?
+
+---
+shuffle_answers: true
+---
+
+> What can be inferred from the Bridge in the song about the singer's new lifestyle?
+
+- [ ] 1
+- [x] 3
+- [ ] 5
+- [ ] 6
+
+## What does the author imply by saying “Don't let him in. You'll have to kick him out again"”?
+
+---
+shuffle_answers: true
+---
+
+> What does the author imply by saying “Don't let him in. You'll have to kick him out again"”?
+
+- [ ] 1
+- [x] 3
+- [ ] 5
+- [ ] 6
+
+{{< /quiz >}}
+
+<hr>

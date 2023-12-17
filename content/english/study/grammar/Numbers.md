@@ -1,8 +1,8 @@
 ---
 title: "Study Numbers"
-meta_title: "Is it really so simple?"
-description: "Study English with SONG (by ARTIST)"
-image: "/img/simple-present.jpg"
+meta_title: "The best way to learn all the numbers"
+description: "The best way to learn all the numbers"
+image: "/images/simple-present.jpg"
 summary: The simple present is one of the three tenses in English.
 study: ["Grammar"]
 URL: "/numbers/"

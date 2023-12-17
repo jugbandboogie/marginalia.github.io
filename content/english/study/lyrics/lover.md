@@ -8,19 +8,37 @@ tags: "American"
 URL: "/ts-lover/"
 draft: false
 ---
-<hr>
-
-## Context
-
-The song, which *describes the pain of a man feeling left out in a love triangle*, appears on the solo-band's critically aclaimed album *Currents* (2015).
 
 <hr>
 
-## Vocabulary
+### Context
 
-Some relevant concepts
+- "Lover" is a track by Taylor Swift, featured on her seventh studio album, also titled "Lover," which was released on August 23, 2019.
+
+- The song "Lover" explores themes of enduring love and commitment. It paints a romantic picture of a mature and lasting relationship, emphasizing the beauty found in both shared experiences and individual differences.
+
+- Taylor Swift is a globally acclaimed singer-songwriter, born on December 13, 1989, in Reading, Pennsylvania. Known for her storytelling through music, Swift has become a prominent figure in the pop and country genres. With numerous awards and a dedicated fanbase, she continues to shape the landscape of contemporary music.
 
 <hr>
+
+
+### Notice
+
+- Modal Verbs:
+
+    Modal verbs such as "could," "can," and "swear" are used to express possibility, permission, and commitment, respectively.
+
+- Imagery and Descriptive Language
+
+    Descriptive language, such as "dazzling haze" and "mysterious way," adds imagery to convey emotions and atmosphere.
+
+- Rhetorical Questions:
+
+    Rhetorical questions are employed for emphasis and engagement, as in "Have I known you twenty seconds or twenty years?" and "Can we always be this close?"
+
+<hr>
+
+### Study the Lyrics
 
 {{< lyrics >}}
 
@@ -183,5 +201,109 @@ Chorus
 
 <hr>
 
+### Quiz
 
-## Quiz
+{{< quiz >}}
+
+---
+primary_color: purple
+secondary_color: lightgray
+text_color: black
+shuffle_questions: false
+---
+
+## How many rules does the singer list?
+
+---
+shuffle_answers: false
+---
+
+> Cuántas reglas enlista la cantante?
+
+1. [ ] 1
+1. [x] 3
+    > this is the correct answer.
+1. [ ] 5
+1. [ ] 6
+
+## What is the main purpose of the "new rules"?
+
+---
+shuffle_answers: false
+---
+
+> What is the main purpose of the "new rules"?
+
+1. [ ] 1
+1. [x] 3
+1. [ ] 5
+1. [ ] 6
+
+## Which of the following is NOT a rule mentioned in the song?
+
+---
+shuffle_answers: false
+---
+
+> Which of the following is NOT a rule mentioned in the song?
+
+- [ ] 1
+- [x] 3
+- [ ] 5
+- [ ] 6
+
+## The word “pick up” in the pre-chorus is closest in meaning to
+
+---
+shuffle_answers: true
+---
+
+> The word “pick up” in the pre-chorus is closest in meaning to
+
+- [ ] 1
+- [x] 3
+- [ ] 5
+- [ ] 6
+
+## Why does the author mention that she can't be his friend in the pre-chorus?
+
+---
+shuffle_answers: true
+---
+
+> Why does the author mention that she can't be his friend in the pre-chorus?
+
+- [ ] 1
+- [x] 3
+- [ ] 5
+- [ ] 6
+
+## What can be inferred from the Bridge in the song about the singer's new lifestyle?
+
+---
+shuffle_answers: true
+---
+
+> What can be inferred from the Bridge in the song about the singer's new lifestyle?
+
+- [ ] 1
+- [x] 3
+- [ ] 5
+- [ ] 6
+
+## What does the author imply by saying “Don't let him in. You'll have to kick him out again"”?
+
+---
+shuffle_answers: true
+---
+
+> What does the author imply by saying “Don't let him in. You'll have to kick him out again"”?
+
+- [ ] 1
+- [x] 3
+- [ ] 5
+- [ ] 6
+
+{{< /quiz >}}
+
+<hr>

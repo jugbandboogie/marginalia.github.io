@@ -8,19 +8,26 @@ tags: "American"
 URL: "/young-and-beautiful/"
 draft: false
 ---
-<hr>
-
-## Context
-
-The song, which *describes the pain of a man feeling left out in a love triangle*, appears on the solo-band's critically aclaimed album *Currents* (2015).
 
 <hr>
 
-## Vocabulary
+### Context
 
-Some relevant concepts
+- "Young and Beautiful" is a song by Lana Del Rey, featured on the soundtrack of the film "The Great Gatsby." The song was released as a single on April 23, 2013.
+
+- The song explores themes of love, beauty, and the passage of time. Lana Del Rey's lyrics express the desire for enduring love and the fear of losing that love as youth fades away.
+
+- Lana Del Rey, born Elizabeth Woolridge Grant on June 21, 1985, is an American singer-songwriter known for her unique blend of vintage and modern musical styles. With a cinematic and melancholic sound, she has garnered acclaim for her storytelling and evocative lyrics. Lana Del Rey has become a prominent figure in the alternative and indie music scenes.
 
 <hr>
+
+### Notice
+
+- Verb to be in the past
+
+<hr>
+
+### Study the Lyrics
 
 {{< lyrics >}}
 
@@ -197,5 +204,109 @@ Outro
 
 <hr>
 
+### Quiz
 
-## Quiz
+{{< quiz >}}
+
+---
+primary_color: purple
+secondary_color: lightgray
+text_color: black
+shuffle_questions: false
+---
+
+## How many rules does the singer list?
+
+---
+shuffle_answers: false
+---
+
+> Cuántas reglas enlista la cantante?
+
+1. [ ] 1
+1. [x] 3
+    > this is the correct answer.
+1. [ ] 5
+1. [ ] 6
+
+## What is the main purpose of the "new rules"?
+
+---
+shuffle_answers: false
+---
+
+> What is the main purpose of the "new rules"?
+
+1. [ ] 1
+1. [x] 3
+1. [ ] 5
+1. [ ] 6
+
+## Which of the following is NOT a rule mentioned in the song?
+
+---
+shuffle_answers: false
+---
+
+> Which of the following is NOT a rule mentioned in the song?
+
+- [ ] 1
+- [x] 3
+- [ ] 5
+- [ ] 6
+
+## The word “pick up” in the pre-chorus is closest in meaning to
+
+---
+shuffle_answers: true
+---
+
+> The word “pick up” in the pre-chorus is closest in meaning to
+
+- [ ] 1
+- [x] 3
+- [ ] 5
+- [ ] 6
+
+## Why does the author mention that she can't be his friend in the pre-chorus?
+
+---
+shuffle_answers: true
+---
+
+> Why does the author mention that she can't be his friend in the pre-chorus?
+
+- [ ] 1
+- [x] 3
+- [ ] 5
+- [ ] 6
+
+## What can be inferred from the Bridge in the song about the singer's new lifestyle?
+
+---
+shuffle_answers: true
+---
+
+> What can be inferred from the Bridge in the song about the singer's new lifestyle?
+
+- [ ] 1
+- [x] 3
+- [ ] 5
+- [ ] 6
+
+## What does the author imply by saying “Don't let him in. You'll have to kick him out again"”?
+
+---
+shuffle_answers: true
+---
+
+> What does the author imply by saying “Don't let him in. You'll have to kick him out again"”?
+
+- [ ] 1
+- [x] 3
+- [ ] 5
+- [ ] 6
+
+{{< /quiz >}}
+
+<hr>

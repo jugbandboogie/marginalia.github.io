@@ -2,7 +2,7 @@
 title: "Study Infinitives"
 meta_title: "To be or not to be"
 description: "To be or not to be"
-image: "/img/simple-present.jpg"
+image: "/images/simple-present.jpg"
 summary: The simple present is one of the three tenses in English.
 study: ["Grammar"]
 URL: "/infinitives/"

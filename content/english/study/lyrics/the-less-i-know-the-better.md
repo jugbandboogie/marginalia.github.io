@@ -11,19 +11,38 @@ draft: false
 
 <hr>
 
-## Context
+### Context
 
-The song, which *describes the pain of a man feeling left out in a love triangle*, appears on the solo-band's critically aclaimed album *Currents* (2015).
+- This song appears on the third band's album *Currents* (2015). It remains as one of Tame Impala's biggest hits. 
 
-<hr>
+- The lyrics *describes the pain of a man feeling left out in a love triangle*. The narrator learns that his love interest (Heather) is having a relationship with somebody else and now he has to deal with this situation.
 
-## Vocabulary
-
-Some relevant concepts
+- Tame Impala is a psychedelic rock band band from Austrailia. It is the project of Kevin Parker who writes and records almost all of the music by himself.
 
 <hr>
 
-## Study the lyrics
+### Notice
+
+- Comparisons:
+
+    The title of the song, *the less I know the better*, uses a comparative phrase as the subject of the sentence. This type of phrase is *used to say that when an action or event continues, there will be a particular result* (Cambridge). Other typical examples of this case is "The more the merrier", "The more he drank, the more violent he became", "The more successful he became, the less happy he felt.". 
+
+    You can create your own comparative phrases saying: 
+
+        The more/less A, the more/less B
+
+        For example, you can transform a sentence with any of these sentences:
+
+            - he drank
+            - violent he became 
+            - successful he became
+            - happy he felt
+
+    Notice that in the case of the title of the song, *better* is an exception, as the adjective *good* is not used with the word "more". Check comparisons to study further.
+
+<hr>
+
+### Study the lyrics
 
 {{< lyrics >}}
 
@@ -52,7 +71,7 @@ Some relevant concepts
 <br><br>
 
 <a data-bs-title=":es: Declaré" data-bs-content="<i>Said = declaré, dijé</i><br><b>Study:</b><br><a href='/simple-past' target='_blank' class='grammarlink' rel='noopener noreferrer'>Simple Past</a>" tabindex="0" data-bs-html="true" class="marginalia" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Said,</a>
-"<a data-bs-title=":es: Cálmate" data-bs-content="<b>Study:</b><br><a href='/phrasal-verbs' target='_blank' class='grammarlink' rel='noopener noreferrer'>Phrasal Verbs</a> (<i>pull yourself together</i>)<br><a href='/progressives' target='_blank' class='grammarlink' rel='noopener noreferrer'>Reflexive Pronouns</a> (<i>yourself</i>)" tabindex="0" data-bs-html="true" class="annotation" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Pull yourself together</a>
+"<a data-bs-title=":es: Cálmate" data-bs-content="Heather tells Kevin to calm down after he saw her with Trevor<br><b>Study:</b><br><a href='/phrasal-verbs' target='_blank' class='grammarlink' rel='noopener noreferrer'>Phrasal Verbs</a> (<i>pull yourself together</i>)<br><a href='/progressives' target='_blank' class='grammarlink' rel='noopener noreferrer'>Reflexive Pronouns</a> (<i>yourself</i>)" tabindex="0" data-bs-html="true" class="annotation" role="button" data-bs-placement="bottom" data-bs-toggle="popover" data-bs-trigger="focus">Pull yourself together</a>
 
 <br>
 
@@ -224,8 +243,112 @@ Said, "Come on, Superman, say your stupid line"
 {{< /lyrics >}}
 
 
-
 <hr>
 
 
-## Quiz
+### Quiz
+
+{{< quiz >}}
+
+---
+primary_color: purple
+secondary_color: lightgray
+text_color: black
+shuffle_questions: false
+---
+
+## How many rules does the singer list?
+
+---
+shuffle_answers: false
+---
+
+> Cuántas reglas enlista la cantante?
+
+1. [ ] 1
+1. [x] 3
+    > this is the correct answer.
+1. [ ] 5
+1. [ ] 6
+
+## What is the main purpose of the "new rules"?
+
+---
+shuffle_answers: false
+---
+
+> What is the main purpose of the "new rules"?
+
+1. [ ] 1
+1. [x] 3
+1. [ ] 5
+1. [ ] 6
+
+## Which of the following is NOT a rule mentioned in the song?
+
+---
+shuffle_answers: false
+---
+
+> What does the author imply by saying "You should try your luck with Heather"
+
+- [ ] 1
+- [x] 3
+- [ ] 5
+- [ ] 6
+
+## The word “pick up” in the pre-chorus is closest in meaning to
+
+---
+shuffle_answers: true
+---
+
+> The word “pick up” in the pre-chorus is closest in meaning to
+
+- [ ] 1
+- [x] 3
+- [ ] 5
+- [ ] 6
+
+## Why does the author mention that she can't be his friend in the pre-chorus?
+
+---
+shuffle_answers: true
+---
+
+> Why does the author mention that she can't be his friend in the pre-chorus?
+
+- [ ] 1
+- [x] 3
+- [ ] 5
+- [ ] 6
+
+## What can be inferred from the Bridge in the song about the singer's new lifestyle?
+
+---
+shuffle_answers: true
+---
+
+> What can be inferred from the Bridge in the song about the singer's new lifestyle?
+
+- [ ] 1
+- [x] 3
+- [ ] 5
+- [ ] 6
+
+## What does the author imply by saying “Don't let him in. You'll have to kick him out again"”?
+
+---
+shuffle_answers: true
+---
+
+> What does the author imply by saying “Don't let him in. You'll have to kick him out again"”?
+
+- [ ] 1
+- [x] 3
+- [ ] 5
+- [ ] 6
+
+{{< /quiz >}}
+
+<hr>
